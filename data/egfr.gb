@@ -1,0 +1,678 @@
+LOCUS       NM_005228               5616 bp    mRNA    linear   PRI 08-NOV-2014
+DEFINITION  Homo sapiens epidermal growth factor receptor (EGFR), transcript
+            variant 1, mRNA.
+ACCESSION   NM_005228
+VERSION     NM_005228.3  GI:41327737
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5616)
+  AUTHORS   Schaeffer D, Somarelli JA, Hanna G, Palmer GM and Garcia-Blanco MA.
+  TITLE     Cellular migration and invasion uncoupled: increased migration is
+            not an inexorable consequence of epithelial-to-mesenchymal
+            transition
+  JOURNAL   Mol. Cell. Biol. 34 (18), 3486-3499 (2014)
+   PUBMED   25002532
+  REMARK    GeneRIF: Results suggest that decreased cell-cell adhesion and EGFR
+            activation are drivers of cellular migration in epithelial cells.
+REFERENCE   2  (bases 1 to 5616)
+  AUTHORS   De S, Dermawan JK and Stark GR.
+  TITLE     EGF receptor uses SOS1 to drive constitutive activation of NFkappaB
+            in cancer cells
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 111 (32), 11721-11726 (2014)
+   PUBMED   25071181
+  REMARK    GeneRIF: Increased expression of SOS1 increases NFkappaB activation
+            in several types of cancer cells, and ablation of SOS1 inhibits
+            EGF-induced NFkappaB activation in these cells, indicating that
+            SOS1 is a component of the pathway connecting EGFR to NFkappaB
+            activation.
+REFERENCE   3  (bases 1 to 5616)
+  AUTHORS   Kadota K, Yeh YC, D'Angelo SP, Moreira AL, Kuk D, Sima CS, Riely
+            GJ, Arcila ME, Kris MG, Rusch VW, Adusumilli PS and Travis WD.
+  TITLE     Associations between mutations and histologic patterns of mucin in
+            lung adenocarcinoma: invasive mucinous pattern and extracellular
+            mucin are associated with KRAS mutation
+  JOURNAL   Am. J. Surg. Pathol. 38 (8), 1118-1127 (2014)
+   PUBMED   25029118
+  REMARK    GeneRIF: We sought to investigate whether mucinous features, such
+            as signet-ring cell feature and extracellular mucin, are associated
+            with EGFR and KRAS mutations in patients with lung adenocarcinoma
+REFERENCE   4  (bases 1 to 5616)
+  AUTHORS   Shikhrakab,H., Elamin,Y.Y., O'Brien,C., Gately,K., Finn,S.,
+            O'Byrne,K. and Osman,N.
+  TITLE     Epidermal growth factor receptor (EGFR) mutation testing, from
+            bench to practice: a single institute experience
+  JOURNAL   Ir Med J 107 (7), 201-204 (2014)
+   PUBMED   25226713
+  REMARK    GeneRIF: The presence of 41 known treatment linked EGFR mutations
+            in exons 18, 19, 20 and 21 of the EGFR gene was tested in 209 Irish
+            patients.
+REFERENCE   5  (bases 1 to 5616)
+  AUTHORS   Ryzhova,M.V., Shishkina,L.V., Zheludkova,O.G., Golanov,A.V.,
+            Gorelyshev,S.K., Pitskhelauri,D.I., Bekiashev,A.Kh., Kobiakov,G.L.,
+            Absaliamova,O.V., Sycheva,R.V. and Korshunov,A.G.
+  TITLE     [Comparative characteristics of genetic aberrations in
+            glioblastomas in children and adults]
+  JOURNAL   Zh Vopr Neirokhir Im N N Burdenko 78 (2), 3-11 (2014)
+   PUBMED   25033601
+  REMARK    GeneRIF: the frequency of detected cytogenetic aberrations
+            MYC/MYCN, EGFR and PDGRFA, homozygous deletion of the CDKN2A gene,
+            and deletion of the PTEN gene, pediatric glioblastomas bear analogy
+            to the subgroup of IDH1-mutant glioblastomas in adults.
+REFERENCE   6  (bases 1 to 5616)
+  AUTHORS   Li W, Hu P, Skolnik EY, Ullrich A and Schlessinger J.
+  TITLE     The SH2 and SH3 domain-containing Nck protein is oncogenic and a
+            common target for phosphorylation by different surface receptors
+  JOURNAL   Mol. Cell. Biol. 12 (12), 5824-5833 (1992)
+   PUBMED   1333047
+REFERENCE   7  (bases 1 to 5616)
+  AUTHORS   Krieg J and Hunter T.
+  TITLE     Identification of the two major epidermal growth factor-induced
+            tyrosine phosphorylation sites in the microvillar core protein
+            ezrin
+  JOURNAL   J. Biol. Chem. 267 (27), 19258-19265 (1992)
+   PUBMED   1382070
+REFERENCE   8  (bases 1 to 5616)
+  AUTHORS   Lowenstein EJ, Daly RJ, Batzer AG, Li W, Margolis B, Lammers R,
+            Ullrich A, Skolnik EY, Bar-Sagi D and Schlessinger J.
+  TITLE     The SH2 and SH3 domain-containing protein GRB2 links receptor
+            tyrosine kinases to ras signaling
+  JOURNAL   Cell 70 (3), 431-442 (1992)
+   PUBMED   1322798
+REFERENCE   9  (bases 1 to 5616)
+  AUTHORS   Chi DD, Hing AV, Helms C, Steinbrueck T, Mishra SK and Donis-Keller
+            H.
+  TITLE     Two chromosome 7 dinucleotide repeat polymorphisms at gene loci
+            epidermal growth factor receptor (EGFR) and pro alpha 2 (I)
+            collagen (COL1A2)
+  JOURNAL   Hum. Mol. Genet. 1 (2), 135 (1992)
+   PUBMED   1301150
+REFERENCE   10 (bases 1 to 5616)
+  AUTHORS   Countaway JL, Nairn AC and Davis RJ.
+  TITLE     Mechanism of desensitization of the epidermal growth factor
+            receptor protein-tyrosine kinase
+  JOURNAL   J. Biol. Chem. 267 (2), 1129-1140 (1992)
+   PUBMED   1309762
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AW163038.1, X00588.1,
+            AF125253.1, AU137334.1, CB160831.1, AL598260.1, AI217671.1 and
+            AW295229.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jan 26, 2004 this sequence version replaced gi:29725608.
+            
+            Summary: The protein encoded by this gene is a transmembrane
+            glycoprotein that is a member of the protein kinase superfamily.
+            This protein is a receptor for members of the epidermal growth
+            factor family. EGFR is a cell surface protein that binds to
+            epidermal growth factor. Binding of the protein to a ligand induces
+            receptor dimerization and tyrosine autophosphorylation and leads to
+            cell proliferation. Mutations in this gene are associated with lung
+            cancer. Multiple alternatively spliced transcript variants that
+            encode different protein isoforms have been found for this gene.
+            [provided by RefSeq, Jul 2010].
+            
+            Transcript Variant: This variant (1) is the longest transcript and
+            it encodes the longest isoform (a).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X00588.1, BC070081.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           ERS025084, ERS025087 [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-97                AW163038.1         1-97
+            98-1865             X00588.1           38-1805
+            1866-1875           AF125253.1         1865-1874
+            1876-2606           X00588.1           1816-2546
+            2607-2616           AU137334.1         238-247
+            2617-4160           X00588.1           2557-4100
+            4161-4515           X00588.1           4103-4457
+            4516-4926           CB160831.1         16-426              c
+            4927-5038           AL598260.1         355-466
+            5039-5384           AI217671.1         1-346               c
+            5385-5616           AW295229.1         1-232               c
+FEATURES             Location/Qualifiers
+     source          1..5616
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7p12"
+     gene            1..5616
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /note="epidermal growth factor receptor"
+                     /db_xref="GeneID:1956"
+                     /db_xref="HGNC:HGNC:3236"
+                     /db_xref="MIM:131550"
+     exon            1..334
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    208..210
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /note="upstream in-frame stop codon"
+     CDS             247..3879
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /EC_number="2.7.10.1"
+                     /note="isoform a precursor is encoded by transcript
+                     variant 1; avian erythroblastic leukemia viral (v-erb-b)
+                     oncogene homolog; cell proliferation-inducing protein 61;
+                     cell growth inhibiting protein 40; proto-oncogene
+                     c-ErbB-1; receptor tyrosine-protein kinase erbB-1"
+                     /codon_start=1
+                     /product="epidermal growth factor receptor isoform a
+                     precursor"
+                     /protein_id="NP_005219.2"
+                     /db_xref="GI:29725609"
+                     /db_xref="CCDS:CCDS5514.1"
+                     /db_xref="GeneID:1956"
+                     /db_xref="HGNC:HGNC:3236"
+                     /db_xref="MIM:131550"
+                     /translation="MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTF
+                     EDHFLSLQRMFNNCEVVLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLE
+                     NLQIIRGNMYYENSYALAVLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVE
+                     SIQWRDIVSSDFLSNMSMDFQNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQ
+                     CSGRCRGKSPSDCCHNQCAAGCTGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQ
+                     MDVNPEGKYSFGATCVKKCPRNYVVTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCR
+                     KVCNGIGIGEFKDSLSINATNIKHFKNCTSISGDLHILPVAFRGDSFTHTPPLDPQEL
+                     DILKTVKEITGFLLIQAWPENRTDLHAFENLEIIRGRTKQHGQFSLAVVSLNITSLGL
+                     RSLKEISDGDVIISGNKNLCYANTINWKKLFGTSGQKTKIISNRGENSCKATGQVCHA
+                     LCSPEGCWGPEPRDCVSCRNVSRGRECVDKCNLLEGEPREFVENSECIQCHPECLPQA
+                     MNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVMGENNTLVWKYADAGHVCHLCHPNC
+                     TYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVVALGIGLFMRRRHIVRKRTLRRL
+                     LQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVKI
+                     PVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGICLTSTVQLITQLMPFGCL
+                     LDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAARNVLVKTPQHVKITDF
+                     GLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSYGVTVWELMTFGSKP
+                     YDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPKFRELIIEFSKMA
+                     RDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQQGFFSSPSTS
+                     RTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTEDSIDDTFLP
+                     VPEYINQSVPKRPAGSVQNPVYHNQPLNPAPSRDPHYQDPHSTAVGNPEYLNTVQPTC
+                     VNSTFDSPAHWAQKGSHQISLDNPDYQQDFFPKEAKPNGIFKGSTAENAEYLRVAPQS
+                     SEFIGA"
+     sig_peptide     247..318
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     319..3876
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /product="epidermal growth factor receptor isoform a"
+     misc_feature    469..1146
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     Region: Approximate"
+     misc_feature    931..933
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:21487020};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    1414..2046
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     Region: Approximate"
+     misc_feature    2182..2250
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     transmembrane region"
+     misc_feature    2278..2280
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by PKC and PKD/PRKD1.
+                     {ECO:0000269|PubMed:10523301}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    2308..2358
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     Region: Important for dimerization, phosphorylation and
+                     activation"
+     misc_feature    2323..2325
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine, by PKD/PRKD1.
+                     {ECO:0000269|PubMed:10523301, ECO:0000269|PubMed:16083266,
+                     ECO:0000269|PubMed:18691976, ECO:0000269|PubMed:20068231,
+                     ECO:0000269|PubMed:3138233}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    2329..2331
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18691976,
+                     ECO:0000269|PubMed:3138233}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3217..3219
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:16083266,
+                     ECO:0000269|PubMed:18669648, ECO:0000269|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3229..3231
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3238..3240
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     {ECO:0000269|PubMed:18669648,
+                     ECO:0000269|PubMed:19563760}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3292..3294
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Important for interaction with PIK3C2B; propagated
+                     from UniProtKB/Swiss-Prot (P00533.2); other site"
+     misc_feature    3292..3294
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     {ECO:0000269|PubMed:19563760}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3322..3324
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:16083266};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3361..3363
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3367..3369
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphothreonine. {ECO:0000269|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3370..3372
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18669648};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3436..3438
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18669648,
+                     ECO:0000269|PubMed:18691976, ECO:0000269|PubMed:20068231};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3451..3453
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine. {ECO:0000305|PubMed:22888118};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3454..3456
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:3138233};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3457..3459
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:3138233};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3487..3489
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18691976};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3520..3522
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     {ECO:0000269|PubMed:12873986}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3574..3576
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     {ECO:0000269|PubMed:12873986, ECO:0000269|PubMed:2543678};
+                     propagated from UniProtKB/Swiss-Prot (P00533.2);
+                     phosphorylation site"
+     misc_feature    3742..3744
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphoserine. {ECO:0000269|PubMed:18669648,
+                     ECO:0000269|PubMed:18691976}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3760..3762
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     {ECO:0000269|PubMed:17081983}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3835..3837
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Phosphotyrosine, by autocatalysis.
+                     {ECO:0000269|PubMed:17081983, ECO:0000269|PubMed:18691976,
+                     ECO:0000269|PubMed:19563760, ECO:0000269|PubMed:19836242,
+                     ECO:0000269|PubMed:20068231}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); phosphorylation site"
+     misc_feature    3841..3843
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Omega-N-methylarginine.
+                     {ECO:0000269|PubMed:21258366}; propagated from
+                     UniProtKB/Swiss-Prot (P00533.2); methylation site"
+     exon            335..486
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            487..670
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            671..805
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            806..874
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            875..993
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            994..1135
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1136..1252
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1253..1379
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1380..1453
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1454..1544
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1545..1744
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1745..1877
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1878..1968
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1969..2126
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2127..2165
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2166..2307
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2308..2430
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2431..2529
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2530..2715
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2716..2871
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2872..2947
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2948..3094
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3095..3192
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3193..3360
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3356..3835
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /standard_name="Egfr"
+                     /db_xref="UniSTS:472898"
+     exon            3361..3408
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3409..3517
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     exon            3518..5600
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /inference="alignment:Splign:1.39.8"
+     STS             3563..4409
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /standard_name="EGFR_3293"
+                     /db_xref="UniSTS:462174"
+     STS             3878..4017
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /standard_name="RH12420"
+                     /db_xref="UniSTS:67459"
+     STS             4323..4510
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /standard_name="D7S2066E"
+                     /db_xref="UniSTS:151119"
+     STS             4590..5085
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+                     /standard_name="GDB:181540"
+                     /db_xref="UniSTS:155266"
+     polyA_signal    5574..5579
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+     polyA_site      5595
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+     polyA_site      5600
+                     /gene="EGFR"
+                     /gene_synonym="ERBB; ERBB1; HER1; mENA; NISBD2; PIG61"
+ORIGIN      
+        1 ccccggcgca gcgcggccgc agcagcctcc gccccccgca cggtgtgagc gcccgacgcg
+       61 gccgaggcgg ccggagtccc gagctagccc cggcggccgc cgccgcccag accggacgac
+      121 aggccacctc gtcggcgtcc gcccgagtcc ccgcctcgcc gccaacgcca caaccaccgc
+      181 gcacggcccc ctgactccgt ccagtattga tcgggagagc cggagcgagc tcttcgggga
+      241 gcagcgatgc gaccctccgg gacggccggg gcagcgctcc tggcgctgct ggctgcgctc
+      301 tgcccggcga gtcgggctct ggaggaaaag aaagtttgcc aaggcacgag taacaagctc
+      361 acgcagttgg gcacttttga agatcatttt ctcagcctcc agaggatgtt caataactgt
+      421 gaggtggtcc ttgggaattt ggaaattacc tatgtgcaga ggaattatga tctttccttc
+      481 ttaaagacca tccaggaggt ggctggttat gtcctcattg ccctcaacac agtggagcga
+      541 attcctttgg aaaacctgca gatcatcaga ggaaatatgt actacgaaaa ttcctatgcc
+      601 ttagcagtct tatctaacta tgatgcaaat aaaaccggac tgaaggagct gcccatgaga
+      661 aatttacagg aaatcctgca tggcgccgtg cggttcagca acaaccctgc cctgtgcaac
+      721 gtggagagca tccagtggcg ggacatagtc agcagtgact ttctcagcaa catgtcgatg
+      781 gacttccaga accacctggg cagctgccaa aagtgtgatc caagctgtcc caatgggagc
+      841 tgctggggtg caggagagga gaactgccag aaactgacca aaatcatctg tgcccagcag
+      901 tgctccgggc gctgccgtgg caagtccccc agtgactgct gccacaacca gtgtgctgca
+      961 ggctgcacag gcccccggga gagcgactgc ctggtctgcc gcaaattccg agacgaagcc
+     1021 acgtgcaagg acacctgccc cccactcatg ctctacaacc ccaccacgta ccagatggat
+     1081 gtgaaccccg agggcaaata cagctttggt gccacctgcg tgaagaagtg tccccgtaat
+     1141 tatgtggtga cagatcacgg ctcgtgcgtc cgagcctgtg gggccgacag ctatgagatg
+     1201 gaggaagacg gcgtccgcaa gtgtaagaag tgcgaagggc cttgccgcaa agtgtgtaac
+     1261 ggaataggta ttggtgaatt taaagactca ctctccataa atgctacgaa tattaaacac
+     1321 ttcaaaaact gcacctccat cagtggcgat ctccacatcc tgccggtggc atttaggggt
+     1381 gactccttca cacatactcc tcctctggat ccacaggaac tggatattct gaaaaccgta
+     1441 aaggaaatca cagggttttt gctgattcag gcttggcctg aaaacaggac ggacctccat
+     1501 gcctttgaga acctagaaat catacgcggc aggaccaagc aacatggtca gttttctctt
+     1561 gcagtcgtca gcctgaacat aacatccttg ggattacgct ccctcaagga gataagtgat
+     1621 ggagatgtga taatttcagg aaacaaaaat ttgtgctatg caaatacaat aaactggaaa
+     1681 aaactgtttg ggacctccgg tcagaaaacc aaaattataa gcaacagagg tgaaaacagc
+     1741 tgcaaggcca caggccaggt ctgccatgcc ttgtgctccc ccgagggctg ctggggcccg
+     1801 gagcccaggg actgcgtctc ttgccggaat gtcagccgag gcagggaatg cgtggacaag
+     1861 tgcaaccttc tggagggtga gccaagggag tttgtggaga actctgagtg catacagtgc
+     1921 cacccagagt gcctgcctca ggccatgaac atcacctgca caggacgggg accagacaac
+     1981 tgtatccagt gtgcccacta cattgacggc ccccactgcg tcaagacctg cccggcagga
+     2041 gtcatgggag aaaacaacac cctggtctgg aagtacgcag acgccggcca tgtgtgccac
+     2101 ctgtgccatc caaactgcac ctacggatgc actgggccag gtcttgaagg ctgtccaacg
+     2161 aatgggccta agatcccgtc catcgccact gggatggtgg gggccctcct cttgctgctg
+     2221 gtggtggccc tggggatcgg cctcttcatg cgaaggcgcc acatcgttcg gaagcgcacg
+     2281 ctgcggaggc tgctgcagga gagggagctt gtggagcctc ttacacccag tggagaagct
+     2341 cccaaccaag ctctcttgag gatcttgaag gaaactgaat tcaaaaagat caaagtgctg
+     2401 ggctccggtg cgttcggcac ggtgtataag ggactctgga tcccagaagg tgagaaagtt
+     2461 aaaattcccg tcgctatcaa ggaattaaga gaagcaacat ctccgaaagc caacaaggaa
+     2521 atcctcgatg aagcctacgt gatggccagc gtggacaacc cccacgtgtg ccgcctgctg
+     2581 ggcatctgcc tcacctccac cgtgcagctc atcacgcagc tcatgccctt cggctgcctc
+     2641 ctggactatg tccgggaaca caaagacaat attggctccc agtacctgct caactggtgt
+     2701 gtgcagatcg caaagggcat gaactacttg gaggaccgtc gcttggtgca ccgcgacctg
+     2761 gcagccagga acgtactggt gaaaacaccg cagcatgtca agatcacaga ttttgggctg
+     2821 gccaaactgc tgggtgcgga agagaaagaa taccatgcag aaggaggcaa agtgcctatc
+     2881 aagtggatgg cattggaatc aattttacac agaatctata cccaccagag tgatgtctgg
+     2941 agctacgggg tgaccgtttg ggagttgatg acctttggat ccaagccata tgacggaatc
+     3001 cctgccagcg agatctcctc catcctggag aaaggagaac gcctccctca gccacccata
+     3061 tgtaccatcg atgtctacat gatcatggtc aagtgctgga tgatagacgc agatagtcgc
+     3121 ccaaagttcc gtgagttgat catcgaattc tccaaaatgg cccgagaccc ccagcgctac
+     3181 cttgtcattc agggggatga aagaatgcat ttgccaagtc ctacagactc caacttctac
+     3241 cgtgccctga tggatgaaga agacatggac gacgtggtgg atgccgacga gtacctcatc
+     3301 ccacagcagg gcttcttcag cagcccctcc acgtcacgga ctcccctcct gagctctctg
+     3361 agtgcaacca gcaacaattc caccgtggct tgcattgata gaaatgggct gcaaagctgt
+     3421 cccatcaagg aagacagctt cttgcagcga tacagctcag accccacagg cgccttgact
+     3481 gaggacagca tagacgacac cttcctccca gtgcctgaat acataaacca gtccgttccc
+     3541 aaaaggcccg ctggctctgt gcagaatcct gtctatcaca atcagcctct gaaccccgcg
+     3601 cccagcagag acccacacta ccaggacccc cacagcactg cagtgggcaa ccccgagtat
+     3661 ctcaacactg tccagcccac ctgtgtcaac agcacattcg acagccctgc ccactgggcc
+     3721 cagaaaggca gccaccaaat tagcctggac aaccctgact accagcagga cttctttccc
+     3781 aaggaagcca agccaaatgg catctttaag ggctccacag ctgaaaatgc agaataccta
+     3841 agggtcgcgc cacaaagcag tgaatttatt ggagcatgac cacggaggat agtatgagcc
+     3901 ctaaaaatcc agactctttc gatacccagg accaagccac agcaggtcct ccatcccaac
+     3961 agccatgccc gcattagctc ttagacccac agactggttt tgcaacgttt acaccgacta
+     4021 gccaggaagt acttccacct cgggcacatt ttgggaagtt gcattccttt gtcttcaaac
+     4081 tgtgaagcat ttacagaaac gcatccagca agaatattgt ccctttgagc agaaatttat
+     4141 ctttcaaaga ggtatatttg aaaaaaaaaa aaagtatatg tgaggatttt tattgattgg
+     4201 ggatcttgga gtttttcatt gtcgctattg atttttactt caatgggctc ttccaacaag
+     4261 gaagaagctt gctggtagca cttgctaccc tgagttcatc caggcccaac tgtgagcaag
+     4321 gagcacaagc cacaagtctt ccagaggatg cttgattcca gtggttctgc ttcaaggctt
+     4381 ccactgcaaa acactaaaga tccaagaagg ccttcatggc cccagcaggc cggatcggta
+     4441 ctgtatcaag tcatggcagg tacagtagga taagccactc tgtcccttcc tgggcaaaga
+     4501 agaaacggag gggatggaat tcttccttag acttactttt gtaaaaatgt ccccacggta
+     4561 cttactcccc actgatggac cagtggtttc cagtcatgag cgttagactg acttgtttgt
+     4621 cttccattcc attgttttga aactcagtat gctgcccctg tcttgctgtc atgaaatcag
+     4681 caagagagga tgacacatca aataataact cggattccag cccacattgg attcatcagc
+     4741 atttggacca atagcccaca gctgagaatg tggaatacct aaggatagca ccgcttttgt
+     4801 tctcgcaaaa acgtatctcc taatttgagg ctcagatgaa atgcatcagg tcctttgggg
+     4861 catagatcag aagactacaa aaatgaagct gctctgaaat ctcctttagc catcacccca
+     4921 accccccaaa attagtttgt gttacttatg gaagatagtt ttctcctttt acttcacttc
+     4981 aaaagctttt tactcaaaga gtatatgttc cctccaggtc agctgccccc aaaccccctc
+     5041 cttacgcttt gtcacacaaa aagtgtctct gccttgagtc atctattcaa gcacttacag
+     5101 ctctggccac aacagggcat tttacaggtg cgaatgacag tagcattatg agtagtgtgg
+     5161 aattcaggta gtaaatatga aactagggtt tgaaattgat aatgctttca caacatttgc
+     5221 agatgtttta gaaggaaaaa agttccttcc taaaataatt tctctacaat tggaagattg
+     5281 gaagattcag ctagttagga gcccaccttt tttcctaatc tgtgtgtgcc ctgtaacctg
+     5341 actggttaac agcagtcctt tgtaaacagt gttttaaact ctcctagtca atatccaccc
+     5401 catccaattt atcaaggaag aaatggttca gaaaatattt tcagcctaca gttatgttca
+     5461 gtcacacaca catacaaaat gttccttttg cttttaaagt aatttttgac tcccagatca
+     5521 gtcagagccc ctacagcatt gttaagaaag tatttgattt ttgtctcaat gaaaataaaa
+     5581 ctatattcat ttccactcta aaaaaaaaaa aaaaaa
+//
+

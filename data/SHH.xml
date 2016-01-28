@@ -1,0 +1,2731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1999-07-15" modified="2014-09-03" version="172">
+<accession>Q15465</accession>
+<accession>A4D247</accession>
+<accession>Q75MC9</accession>
+<name>SHH_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Sonic hedgehog protein</fullName>
+<shortName>SHH</shortName>
+</recommendedName>
+<alternativeName>
+<fullName>HHG-1</fullName>
+</alternativeName>
+<component>
+<recommendedName>
+<fullName>Sonic hedgehog protein N-product</fullName>
+</recommendedName>
+</component>
+<component>
+<recommendedName>
+<fullName>Sonic hedgehog protein C-product</fullName>
+</recommendedName>
+</component>
+</protein>
+<gene>
+<name type="primary">SHH</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1995" name="Genomics" volume="28" first="44" last="51">
+<title>Cloning, expression, and chromosomal location of SHH and IHH: two human homologues of the Drosophila segment polarity gene hedgehog.</title>
+<authorList>
+<person name="Marigo V."/>
+<person name="Roberts D.J."/>
+<person name="Lee S.M.K."/>
+<person name="Tsukurov O."/>
+<person name="Levi T."/>
+<person name="Gastier J.M."/>
+<person name="Epstein D.J."/>
+<person name="Gilbert D.J."/>
+<person name="Copeland N.G."/>
+<person name="Seidman C.E."/>
+<person name="Jenkins N.A."/>
+<person name="Seidman J.G."/>
+<person name="McMahon A.P."/>
+<person name="Tabin C."/>
+</authorList>
+<dbReference type="PubMed" id="7590746"/>
+<dbReference type="DOI" id="10.1006/geno.1995.1104"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Fetal lung</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2000" name="J. Biochem. Mol. Biol. Biophys." volume="4" first="27" last="34">
+<title>Expression of Sonic hedgehog and its receptor Patched/Smoothened in human cancer cell lines and embryonic organs.</title>
+<authorList>
+<person name="Tate G."/>
+<person name="Kishimoto K."/>
+<person name="Mitsuya T."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="3">
+<citation type="submission" date="2003-09" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="NIEHS SNPs program"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2003" name="Nature" volume="424" first="157" last="164">
+<title>The DNA sequence of human chromosome 7.</title>
+<authorList>
+<person name="Hillier L.W."/>
+<person name="Fulton R.S."/>
+<person name="Fulton L.A."/>
+<person name="Graves T.A."/>
+<person name="Pepin K.H."/>
+<person name="Wagner-McPherson C."/>
+<person name="Layman D."/>
+<person name="Maas J."/>
+<person name="Jaeger S."/>
+<person name="Walker R."/>
+<person name="Wylie K."/>
+<person name="Sekhon M."/>
+<person name="Becker M.C."/>
+<person name="O'Laughlin M.D."/>
+<person name="Schaller M.E."/>
+<person name="Fewell G.A."/>
+<person name="Delehaunty K.D."/>
+<person name="Miner T.L."/>
+<person name="Nash W.E."/>
+<person name="Cordes M."/>
+<person name="Du H."/>
+<person name="Sun H."/>
+<person name="Edwards J."/>
+<person name="Bradshaw-Cordum H."/>
+<person name="Ali J."/>
+<person name="Andrews S."/>
+<person name="Isak A."/>
+<person name="Vanbrunt A."/>
+<person name="Nguyen C."/>
+<person name="Du F."/>
+<person name="Lamar B."/>
+<person name="Courtney L."/>
+<person name="Kalicki J."/>
+<person name="Ozersky P."/>
+<person name="Bielicki L."/>
+<person name="Scott K."/>
+<person name="Holmes A."/>
+<person name="Harkins R."/>
+<person name="Harris A."/>
+<person name="Strong C.M."/>
+<person name="Hou S."/>
+<person name="Tomlinson C."/>
+<person name="Dauphin-Kohlberg S."/>
+<person name="Kozlowicz-Reilly A."/>
+<person name="Leonard S."/>
+<person name="Rohlfing T."/>
+<person name="Rock S.M."/>
+<person name="Tin-Wollam A.-M."/>
+<person name="Abbott A."/>
+<person name="Minx P."/>
+<person name="Maupin R."/>
+<person name="Strowmatt C."/>
+<person name="Latreille P."/>
+<person name="Miller N."/>
+<person name="Johnson D."/>
+<person name="Murray J."/>
+<person name="Woessner J.P."/>
+<person name="Wendl M.C."/>
+<person name="Yang S.-P."/>
+<person name="Schultz B.R."/>
+<person name="Wallis J.W."/>
+<person name="Spieth J."/>
+<person name="Bieri T.A."/>
+<person name="Nelson J.O."/>
+<person name="Berkowicz N."/>
+<person name="Wohldmann P.E."/>
+<person name="Cook L.L."/>
+<person name="Hickenbotham M.T."/>
+<person name="Eldred J."/>
+<person name="Williams D."/>
+<person name="Bedell J.A."/>
+<person name="Mardis E.R."/>
+<person name="Clifton S.W."/>
+<person name="Chissoe S.L."/>
+<person name="Marra M.A."/>
+<person name="Raymond C."/>
+<person name="Haugen E."/>
+<person name="Gillett W."/>
+<person name="Zhou Y."/>
+<person name="James R."/>
+<person name="Phelps K."/>
+<person name="Iadanoto S."/>
+<person name="Bubb K."/>
+<person name="Simms E."/>
+<person name="Levy R."/>
+<person name="Clendenning J."/>
+<person name="Kaul R."/>
+<person name="Kent W.J."/>
+<person name="Furey T.S."/>
+<person name="Baertsch R.A."/>
+<person name="Brent M.R."/>
+<person name="Keibler E."/>
+<person name="Flicek P."/>
+<person name="Bork P."/>
+<person name="Suyama M."/>
+<person name="Bailey J.A."/>
+<person name="Portnoy M.E."/>
+<person name="Torrents D."/>
+<person name="Chinwalla A.T."/>
+<person name="Gish W.R."/>
+<person name="Eddy S.R."/>
+<person name="McPherson J.D."/>
+<person name="Olson M.V."/>
+<person name="Eichler E.E."/>
+<person name="Green E.D."/>
+<person name="Waterston R.H."/>
+<person name="Wilson R.K."/>
+</authorList>
+<dbReference type="PubMed" id="12853948"/>
+<dbReference type="DOI" id="10.1038/nature01782"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2003" name="Science" volume="300" first="767" last="772">
+<title>Human chromosome 7: DNA sequence and biology.</title>
+<authorList>
+<person name="Scherer S.W."/>
+<person name="Cheung J."/>
+<person name="MacDonald J.R."/>
+<person name="Osborne L.R."/>
+<person name="Nakabayashi K."/>
+<person name="Herbrick J.-A."/>
+<person name="Carson A.R."/>
+<person name="Parker-Katiraee L."/>
+<person name="Skaug J."/>
+<person name="Khaja R."/>
+<person name="Zhang J."/>
+<person name="Hudek A.K."/>
+<person name="Li M."/>
+<person name="Haddad M."/>
+<person name="Duggan G.E."/>
+<person name="Fernandez B.A."/>
+<person name="Kanematsu E."/>
+<person name="Gentles S."/>
+<person name="Christopoulos C.C."/>
+<person name="Choufani S."/>
+<person name="Kwasnicka D."/>
+<person name="Zheng X.H."/>
+<person name="Lai Z."/>
+<person name="Nusskern D.R."/>
+<person name="Zhang Q."/>
+<person name="Gu Z."/>
+<person name="Lu F."/>
+<person name="Zeesman S."/>
+<person name="Nowaczyk M.J."/>
+<person name="Teshima I."/>
+<person name="Chitayat D."/>
+<person name="Shuman C."/>
+<person name="Weksberg R."/>
+<person name="Zackai E.H."/>
+<person name="Grebe T.A."/>
+<person name="Cox S.R."/>
+<person name="Kirkpatrick S.J."/>
+<person name="Rahman N."/>
+<person name="Friedman J.M."/>
+<person name="Heng H.H.Q."/>
+<person name="Pelicci P.G."/>
+<person name="Lo-Coco F."/>
+<person name="Belloni E."/>
+<person name="Shaffer L.G."/>
+<person name="Pober B."/>
+<person name="Morton C.C."/>
+<person name="Gusella J.F."/>
+<person name="Bruns G.A.P."/>
+<person name="Korf B.R."/>
+<person name="Quade B.J."/>
+<person name="Ligon A.H."/>
+<person name="Ferguson H."/>
+<person name="Higgins A.W."/>
+<person name="Leach N.T."/>
+<person name="Herrick S.R."/>
+<person name="Lemyre E."/>
+<person name="Farra C.G."/>
+<person name="Kim H.-G."/>
+<person name="Summers A.M."/>
+<person name="Gripp K.W."/>
+<person name="Roberts W."/>
+<person name="Szatmari P."/>
+<person name="Winsor E.J.T."/>
+<person name="Grzeschik K.-H."/>
+<person name="Teebi A."/>
+<person name="Minassian B.A."/>
+<person name="Kere J."/>
+<person name="Armengol L."/>
+<person name="Pujana M.A."/>
+<person name="Estivill X."/>
+<person name="Wilson M.D."/>
+<person name="Koop B.F."/>
+<person name="Tosi S."/>
+<person name="Moore G.E."/>
+<person name="Boright A.P."/>
+<person name="Zlotorynski E."/>
+<person name="Kerem B."/>
+<person name="Kroisel P.M."/>
+<person name="Petek E."/>
+<person name="Oscier D.G."/>
+<person name="Mould S.J."/>
+<person name="Doehner H."/>
+<person name="Doehner K."/>
+<person name="Rommens J.M."/>
+<person name="Vincent J.B."/>
+<person name="Venter J.C."/>
+<person name="Li P.W."/>
+<person name="Mural R.J."/>
+<person name="Adams M.D."/>
+<person name="Tsui L.-C."/>
+</authorList>
+<dbReference type="PubMed" id="12690205"/>
+<dbReference type="DOI" id="10.1126/science.1083423"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1998" name="J. Biol. Chem." volume="273" first="14037" last="14045">
+<title>Identification of a palmitic acid-modified form of human Sonic hedgehog.</title>
+<authorList>
+<person name="Pepinsky R.B."/>
+<person name="Zeng C."/>
+<person name="Wen D."/>
+<person name="Rayhorn P."/>
+<person name="Baker D.P."/>
+<person name="Williams K.P."/>
+<person name="Bixler S.A."/>
+<person name="Ambrose C.M."/>
+<person name="Garber E.A."/>
+<person name="Miatkowski K."/>
+<person name="Taylor F.R."/>
+<person name="Wang E.A."/>
+<person name="Galdes A."/>
+</authorList>
+<dbReference type="PubMed" id="9593755"/>
+<dbReference type="DOI" id="10.1074/jbc.273.22.14037"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 24-32</scope>
+<scope>PALMITOYLATION AT CYS-24</scope>
+<scope>CHOLESTERYLATION</scope>
+<scope>MUTAGENESIS OF CYS-24</scope>
+<scope>MASS SPECTROMETRY</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1994" name="Development" volume="120" first="3339" last="3353">
+<title>Products, genetic linkage and limb patterning activity of a murine hedgehog gene.</title>
+<authorList>
+<person name="Chang D.T."/>
+<person name="Lopez A."/>
+<person name="von Kessler D.P."/>
+<person name="Chiang C."/>
+<person name="Simandl B.K."/>
+<person name="Zhao R."/>
+<person name="Seldin M.F."/>
+<person name="Fallon J.F."/>
+<person name="Beachy P.A."/>
+</authorList>
+<dbReference type="PubMed" id="7720571"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA] OF 119-167</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2003" name="Hum. Mol. Genet." volume="12" first="1725" last="1735">
+<title>A long-range Shh enhancer regulates expression in the developing limb and fin and is associated with preaxial polydactyly.</title>
+<authorList>
+<person name="Lettice L.A."/>
+<person name="Heaney S.J.H."/>
+<person name="Purdie L.A."/>
+<person name="Li L."/>
+<person name="de Beer P."/>
+<person name="Oostra B.A."/>
+<person name="Goode D."/>
+<person name="Elgar G."/>
+<person name="Hill R.E."/>
+<person name="de Graaff E."/>
+</authorList>
+<dbReference type="PubMed" id="12837695"/>
+<dbReference type="DOI" id="10.1093/hmg/ddg180"/>
+</citation>
+<scope>INVOLVEMENT IN TPTPS</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2005" name="J. Proteome Res." volume="4" first="2070" last="2080">
+<title>Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.</title>
+<authorList>
+<person name="Liu T."/>
+<person name="Qian W.-J."/>
+<person name="Gritsenko M.A."/>
+<person name="Camp D.G. II"/>
+<person name="Monroe M.E."/>
+<person name="Moore R.J."/>
+<person name="Smith R.D."/>
+</authorList>
+<dbReference type="PubMed" id="16335952"/>
+<dbReference type="DOI" id="10.1021/pr0502065"/>
+</citation>
+<scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-278</scope>
+<source>
+<tissue>Plasma</tissue>
+</source>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2008" name="J. Med. Genet." volume="45" first="589" last="595">
+<title>Triphalangeal thumb-polysyndactyly syndrome and syndactyly type IV are caused by genomic duplications involving the long range, limb-specific SHH enhancer.</title>
+<authorList>
+<person name="Sun M."/>
+<person name="Ma F."/>
+<person name="Zeng X."/>
+<person name="Liu Q."/>
+<person name="Zhao X.-L."/>
+<person name="Wu F.-X."/>
+<person name="Wu G.-P."/>
+<person name="Zhang Z.-F."/>
+<person name="Gu B."/>
+<person name="Zhao Y.-F."/>
+<person name="Tian S.-H."/>
+<person name="Lin B."/>
+<person name="Kong X.-Y."/>
+<person name="Zhang X.-L."/>
+<person name="Yang W."/>
+<person name="Lo W.H.-Y."/>
+<person name="Zhang X."/>
+</authorList>
+<dbReference type="PubMed" id="18417549"/>
+<dbReference type="DOI" id="10.1136/jmg.2008.057646"/>
+</citation>
+<scope>INVOLVEMENT IN TPTPS</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2000" name="J. Biol. Chem." volume="275" first="10995" last="11001">
+<title>Mapping sonic hedgehog-receptor interactions by steric interference.</title>
+<authorList>
+<person name="Pepinsky R.B."/>
+<person name="Rayhorn P."/>
+<person name="Day E.S."/>
+<person name="Dergay A."/>
+<person name="Williams K.P."/>
+<person name="Galdes A."/>
+<person name="Taylor F.R."/>
+<person name="Boriack-Sjodin P.A."/>
+<person name="Garber E.A."/>
+</authorList>
+<dbReference type="PubMed" id="10753901"/>
+<dbReference type="DOI" id="10.1074/jbc.275.15.10995"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 25-197 IN COMPLEX WITH ZINC IONS</scope>
+<scope>FUNCTION</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="2009" name="Nat. Struct. Mol. Biol." volume="16" first="691" last="697">
+<title>The structure of SHH in complex with HHIP reveals a recognition role for the Shh pseudo active site in signaling.</title>
+<authorList>
+<person name="Bosanac I."/>
+<person name="Maun H.R."/>
+<person name="Scales S.J."/>
+<person name="Wen X."/>
+<person name="Lingel A."/>
+<person name="Bazan J.F."/>
+<person name="de Sauvage F.J."/>
+<person name="Hymowitz S.G."/>
+<person name="Lazarus R.A."/>
+</authorList>
+<dbReference type="PubMed" id="19561609"/>
+<dbReference type="DOI" id="10.1038/nsmb.1632"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (3.01 ANGSTROMS) OF 29-197 IN COMPLEX WITH HHIP; ZINC AND CALCIUM IONS</scope>
+<scope>DOMAIN</scope>
+<scope>INTERACTION WITH HHIP</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2010" name="J. Biol. Chem." volume="285" first="26570" last="26580">
+<title>Hedgehog pathway antagonist 5E1 binds hedgehog at the pseudo-active site.</title>
+<authorList>
+<person name="Maun H.R."/>
+<person name="Wen X."/>
+<person name="Lingel A."/>
+<person name="de Sauvage F.J."/>
+<person name="Lazarus R.A."/>
+<person name="Scales S.J."/>
+<person name="Hymowitz S.G."/>
+</authorList>
+<dbReference type="PubMed" id="20504762"/>
+<dbReference type="DOI" id="10.1074/jbc.M110.112284"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.83 ANGSTROMS) OF 29-197 IN COMPLEX WITH MONOCLONAL ANTIBODY; ZINC AND CALCIUM IONS</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>DOMAIN</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1996" name="Nat. Genet." volume="14" first="357" last="360">
+<title>Mutations in the human Sonic hedgehog gene cause holoprosencephaly.</title>
+<authorList>
+<person name="Roessler E."/>
+<person name="Belloni E."/>
+<person name="Gaudenz K."/>
+<person name="Jay P."/>
+<person name="Berta P."/>
+<person name="Scherer S.W."/>
+<person name="Tsui L.-C."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="8896572"/>
+<dbReference type="DOI" id="10.1038/ng1196-357"/>
+</citation>
+<scope>VARIANTS HPE3 ARG-31; GLY-117 AND ARG-117</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="1997" name="Hum. Mol. Genet." volume="6" first="1847" last="1853">
+<title>Mutations in the C-terminal domain of Sonic hedgehog cause holoprosencephaly.</title>
+<authorList>
+<person name="Roessler E."/>
+<person name="Belloni E."/>
+<person name="Gaudenz K."/>
+<person name="Vargas F."/>
+<person name="Scherer S.W."/>
+<person name="Tsui L.-C."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="9302262"/>
+<dbReference type="DOI" id="10.1093/hmg/6.11.1847"/>
+</citation>
+<scope>VARIANTS HPE3 ARG-31; GLY-117; ARG-117; GLU-224; THR-226 AND THR-383</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="1999" name="Hum. Mol. Genet." volume="8" first="1683" last="1689">
+<title>Expression of the Sonic hedgehog (SHH) gene during early human development and phenotypic expression of new mutations causing holoprosencephaly.</title>
+<authorList>
+<person name="Odent S."/>
+<person name="Atti-Bitach T."/>
+<person name="Blayau M."/>
+<person name="Mathieu M."/>
+<person name="Aug J."/>
+<person name="Delezo de A.L."/>
+<person name="Gall J.Y."/>
+<person name="Le Marec B."/>
+<person name="Munnich A."/>
+<person name="David V."/>
+<person name="Vekemans M."/>
+</authorList>
+<dbReference type="PubMed" id="10441331"/>
+<dbReference type="DOI" id="10.1093/hmg/8.9.1683"/>
+</citation>
+<scope>VARIANTS HPE3 HIS-100; GLN-188 AND ASN-222</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="1999" name="Hum. Mol. Genet." volume="8" first="2479" last="2488">
+<title>The mutational spectrum of the sonic hedgehog gene in holoprosencephaly: SHH mutations cause a significant proportion of autosomal dominant holoprosencephaly.</title>
+<authorList>
+<person name="Nanni L."/>
+<person name="Ming J.E."/>
+<person name="Bocian M."/>
+<person name="Steinhaus K."/>
+<person name="Bianchi D.W."/>
+<person name="Die-Smulders C."/>
+<person name="Giannotti A."/>
+<person name="Imaizumi K."/>
+<person name="Jones K.L."/>
+<person name="Campo M.D."/>
+<person name="Martin R.A."/>
+<person name="Meinecke P."/>
+<person name="Pierpont M.E.M."/>
+<person name="Robin N.H."/>
+<person name="Young I.D."/>
+<person name="Roessler E."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="10556296"/>
+<dbReference type="DOI" id="10.1093/hmg/8.13.2479"/>
+</citation>
+<scope>VARIANTS HPE3 VAL-88; LYS-115; ARG-236; 263-ARG--ALA-269 DEL; ASP-290; ALA-424 AND LEU-436</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2001" name="Am. J. Med. Genet." volume="102" first="1" last="10">
+<title>SHH mutation is associated with solitary median maxillary central incisor: a study of 13 patients and review of the literature.</title>
+<authorList>
+<person name="Nanni L."/>
+<person name="Ming J.E."/>
+<person name="Du Y."/>
+<person name="Hall R.K."/>
+<person name="Aldred M."/>
+<person name="Bankier A."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="11471164"/>
+<dbReference type="DOI" id="10.1002/1096-8628(20010722)102:1&lt;1::AID-AJMG1336>3.0.CO;2-U"/>
+</citation>
+<scope>VARIANT SMMCI PHE-111</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2001" name="Hum. Genet." volume="109" first="1" last="6">
+<title>Identification of novel mutations in SHH and ZIC2 in a South American (ECLAMC) population with holoprosencephaly.</title>
+<authorList>
+<person name="Orioli I.M."/>
+<person name="Castilla E.E."/>
+<person name="Ming J.E."/>
+<person name="Nazer J."/>
+<person name="Burle de Aguiar M.J."/>
+<person name="Llerena J.C."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="11479728"/>
+<dbReference type="DOI" id="10.1007/s004390100537"/>
+</citation>
+<scope>VARIANTS HPE3 PRO-140 AND PHE-183</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2003" name="Am. J. Med. Genet. A" volume="116" first="215" last="221">
+<title>Novel mutation in sonic hedgehog in non-syndromic colobomatous microphthalmia.</title>
+<authorList>
+<person name="Schimmenti L.A."/>
+<person name="de la Cruz J."/>
+<person name="Lewis R.A."/>
+<person name="Karkera J.D."/>
+<person name="Manligas G.S."/>
+<person name="Roessler E."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="12503095"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.10884"/>
+</citation>
+<scope>VARIANT MCOPCB5 401-SER--GLY-408 DEL</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2004" name="Am. J. Med. Genet. A" volume="127" first="93" last="95">
+<title>Solitary median maxillary central incisor syndrome: clinical case with a novel mutation of sonic hedgehog.</title>
+<authorList>
+<person name="Garavelli L."/>
+<person name="Zanacca C."/>
+<person name="Caselli G."/>
+<person name="Banchini G."/>
+<person name="Dubourg C."/>
+<person name="David V."/>
+<person name="Odent S."/>
+<person name="Gurrieri F."/>
+<person name="Neri G."/>
+</authorList>
+<dbReference type="PubMed" id="15103725"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.20685"/>
+</citation>
+<scope>VARIANT SMMCI ALA-332</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2004" name="Eur. J. Pediatr." volume="163" first="347" last="352">
+<title>Wide phenotypic variability in families with holoprosencephaly and a sonic hedgehog mutation.</title>
+<authorList>
+<person name="Hehr U."/>
+<person name="Gross C."/>
+<person name="Diebold U."/>
+<person name="Wahl D."/>
+<person name="Beudt U."/>
+<person name="Heidemann P."/>
+<person name="Hehr A."/>
+<person name="Mueller D."/>
+</authorList>
+<dbReference type="PubMed" id="15107988"/>
+<dbReference type="DOI" id="10.1007/s00431-004-1459-0"/>
+</citation>
+<scope>VARIANTS HPE3 ALA-27; ILE-267 AND THR-373</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2004" name="Hum. Mutat." volume="24" first="43" last="51">
+<title>Molecular screening of SHH, ZIC2, SIX3, and TGIF genes in patients with features of holoprosencephaly spectrum: mutation review and genotype-phenotype correlations.</title>
+<authorList>
+<person name="Dubourg C."/>
+<person name="Lazaro L."/>
+<person name="Pasquier L."/>
+<person name="Bendavid C."/>
+<person name="Blayau M."/>
+<person name="Le Duff F."/>
+<person name="Durou M.-R."/>
+<person name="Odent S."/>
+<person name="David V."/>
+</authorList>
+<dbReference type="PubMed" id="15221788"/>
+<dbReference type="DOI" id="10.1002/humu.20056"/>
+</citation>
+<scope>VARIANTS HPE3 THR-6; HIS-100; 106-LEU-ASN-107 DEL; ASP-110; ARG-150; 176-GLU--LYS-178 DEL; GLN-188; ASN-222; PRO-271; ALA-332; GLN-347; THR-354 AND PRO-381</scope>
+</reference>
+<reference key="24">
+<citation type="journal article" date="2005" name="Am. J. Med. Genet. A" volume="136" first="345" last="345">
+<title>SHH Ile111Asp in alobar holoprosencephaly in a proposita, whose mother had only a solitary median maxillary incisor.</title>
+<authorList>
+<person name="El-Jaick K.B."/>
+<person name="Brunoni D."/>
+<person name="Castilla E.E."/>
+<person name="Moreira M.A."/>
+<person name="Orioli I.M."/>
+</authorList>
+<dbReference type="PubMed" id="15942952"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.30624"/>
+</citation>
+<scope>VARIANT HPE3 ASN-111</scope>
+</reference>
+<reference key="25">
+<citation type="journal article" date="2005" name="Am. J. Med. Genet. A" volume="136" first="346" last="347">
+<title>Single median maxillary central incisor, hypophyseal tumor, and SHH mutation.</title>
+<authorList>
+<person name="Ribeiro L.A."/>
+<person name="Richieri-Costa A."/>
+</authorList>
+<dbReference type="PubMed" id="15942953"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.30625"/>
+</citation>
+<scope>VARIANT HPE3 GLN-140</scope>
+</reference>
+<reference key="26">
+<citation type="journal article" date="2005" name="Proc. Natl. Acad. Sci. U.S.A." volume="102" first="17026" last="17031">
+<title>Molecular mechanisms of Sonic hedgehog mutant effects in holoprosencephaly.</title>
+<authorList>
+<person name="Maity T."/>
+<person name="Fuse N."/>
+<person name="Beachy P.A."/>
+</authorList>
+<dbReference type="PubMed" id="16282375"/>
+<dbReference type="DOI" id="10.1073/pnas.0507848102"/>
+</citation>
+<scope>CHARACTERIZATION OF VARIANTS HPE3 ARG-31; VAL-88; HIS-100; LYS-115; ARG-117; GLY-117 AND GLN-188</scope>
+</reference>
+<reference key="27">
+<citation type="journal article" date="2006" name="Am. J. Med. Genet. A" volume="140" first="2587" last="2593">
+<title>Holoprosencephaly-like phenotype: clinical and genetic perspectives.</title>
+<authorList>
+<person name="Richieri-Costa A."/>
+<person name="Ribeiro L.A."/>
+</authorList>
+<dbReference type="PubMed" id="17001669"/>
+<dbReference type="DOI" id="10.1002/ajmg.a.31378"/>
+</citation>
+<scope>VARIANTS HPE3 GLN-140; PRO-218 AND TYR-363</scope>
+</reference>
+<reference key="28">
+<citation type="journal article" date="2009" name="Hum. Mutat." volume="30" first="E921" last="E935">
+<title>The mutational spectrum of holoprosencephaly-associated changes within the SHH gene in humans predicts loss-of-function through either key structural alterations of the ligand or its altered synthesis.</title>
+<authorList>
+<person name="Roessler E."/>
+<person name="El-Jaick K.B."/>
+<person name="Dubourg C."/>
+<person name="Velez J.I."/>
+<person name="Solomon B.D."/>
+<person name="Pineda-Alvarez D.E."/>
+<person name="Lacbawan F."/>
+<person name="Zhou N."/>
+<person name="Ouspenskaia M."/>
+<person name="Paulussen A."/>
+<person name="Smeets H.J."/>
+<person name="Hehr U."/>
+<person name="Bendavid C."/>
+<person name="Bale S."/>
+<person name="Odent S."/>
+<person name="David V."/>
+<person name="Muenke M."/>
+</authorList>
+<dbReference type="PubMed" id="19603532"/>
+<dbReference type="DOI" id="10.1002/humu.21090"/>
+</citation>
+<scope>VARIANTS HPE3 THR-6; PRO-17; LEU-26; ALA-27; ARG-31; PRO-39; LYS-53; VAL-83; PHE-84; VAL-88; HIS-100; ARG-102; TYR-102; 106-LEU-ASN-107 DEL; PHE-109; THR-110; ASP-110; PHE-111; ASN-111; LYS-115; GLY-117; ARG-117; MET-124; LYS-136; PRO-140; GLN-140; ASP-143; PRO-144; ASN-147; ARG-150; LYS-150; ARG-156; CYS-170; HIS-171; 176-GLU--LYS-178 DEL; ARG-183; PHE-183; TYR-183; LEU-184; GLN-188; GLU-196; 196-GLY--PRO-200 DEL; VAL-197; SER-198; PHE-198; PRO-218; ASN-222; GLU-224; THR-226; VAL-231; GLY-232; PRO-234; ARG-236; ASN-236; VAL-241; LEU-241; ASN-255; 263-ARG--ALA-269 DEL; ILE-267; PRO-271; GLU-275; TRP-280; ASP-290; ALA-296; CYS-310; SER-321; ALA-332; VAL-346; ARG-347; GLN-347; LEU-347; THR-354; LEU-362; TYR-363; CYS-364; THR-373; ARG-374; ASP-376; SER-377; 378-ALA--PHE-380 DEL; PRO-381; PRO-382; THR-383; THR-391; 402-GLY--GLY-409 DEL; 405-ASP--GLY-409 DEL; GLY-411 INS; ALA-416; ALA-424; ASN-435; LEU-436 AND ARG-456</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Intercellular signal essential for a variety of patterning events during development: signal produced by the notochord that induces ventral cell fate in the neural tube and somites, and the polarizing signal for patterning of the anterior-posterior axis of the developing limb bud. Displays both floor plate- and motor neuron-inducing activity. The threshold concentration of N-product required for motor neuron induction is 5-fold lower than that required for floor plate induction. Activates the transcription of target genes by interacting with its receptor PTCH1 to prevent normal inhibition by PTCH1 on the constitutive signaling activity of SMO (By similarity).</text>
+</comment>
+<comment type="subunit">
+<text evidence="2">Interacts with HHATL/GUP1 which negatively regulates HHAT-mediated palmitoylation of the SHH N-terminus. N-product is active as a multimer. Interacts with BOC and CDON (By similarity). Interacts with HHIP.</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Sonic hedgehog protein C-product</molecule>
+<subcellularLocation>
+<location status="by similarity">Secreted</location>
+<location status="by similarity">Extracellular space</location>
+</subcellularLocation>
+<text evidence="3">The C-terminal peptide diffuses from the cell (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<molecule>Sonic hedgehog protein N-product</molecule>
+<subcellularLocation>
+<location>Cell membrane</location>
+<topology status="by similarity">Lipid-anchor</topology>
+</subcellularLocation>
+<subcellularLocation>
+<location>Cell membrane</location>
+</subcellularLocation>
+<text evidence="3">The N-product either remains associated with lipid rafts at the cell surface, or forms freely diffusible active multimers with its hydrophobic lipid-modified N- and C-termini buried inside (By similarity).</text>
+</comment>
+<comment type="tissue specificity">
+<text>Expressed in fetal intestine, liver, lung, and kidney. Not expressed in adult tissues.</text>
+</comment>
+<comment type="domain">
+<text evidence="1 2 3">The sonic hedgehog protein N-product binds calcium and zinc ions; this stabilizes the protein fold and is essential for protein-protein interactions mediated by this domain.</text>
+</comment>
+<comment type="PTM">
+<text>The C-terminal domain displays an autoproteolysis activity and a cholesterol transferase activity. Both activities result in the cleavage of the full-length protein and covalent attachment of a cholesterol moiety to the C-terminal of the newly generated N-terminal fragment (N-product). The N-product is the active species in both local and long-range signaling, whereas the C-product has no signaling activity.</text>
+</comment>
+<comment type="PTM">
+<text>Cholesterylation is required for N-product targeting to lipid rafts and multimerization (By similarity).</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">N-palmitoylation of Cys-24 by HHAT is required for N-product multimerization and full activity (By similarity).</text>
+</comment>
+<comment type="mass spectrometry" mass="19.560" method="Electrospray" evidence="4">
+<location>
+<begin position="24"/>
+<end position="197"/>
+</location>
+<text>Soluble N-product, purified from insect cells.</text>
+</comment>
+<comment type="mass spectrometry" mass="20.167" method="Electrospray" evidence="4">
+<location>
+<begin position="24"/>
+<end position="197"/>
+</location>
+<text>Membrane-bound N-product, purified from insect cells.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-00760">
+<name>Microphthalmia, isolated, with coloboma, 5</name>
+<acronym>MCOPCB5</acronym>
+<description>A disorder of eye formation, ranging from small size of a single eye to complete bilateral absence of ocular tissues. Ocular abnormalities like opacities of the cornea and lens, scaring of the retina and choroid, and other abnormalities may also be present. Ocular colobomas are a set of malformations resulting from abnormal morphogenesis of the optic cup and stalk, and the fusion of the fetal fissure (optic fissure).</description>
+<dbReference type="MIM" id="611638"/>
+</disease>
+<text evidence="5">The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-00567">
+<name>Holoprosencephaly 3</name>
+<acronym>HPE3</acronym>
+<description>A structural anomaly of the brain, in which the developing forebrain fails to correctly separate into right and left hemispheres. Holoprosencephaly is genetically heterogeneous and associated with several distinct facies and phenotypic variability. The majority of holoprosencephaly type 3 cases are apparently sporadic, although clear examples of autosomal dominant inheritance have been described.</description>
+<dbReference type="MIM" id="142945"/>
+</disease>
+<text evidence="6 7 8 9 10 11 12 13 14 15 16 17">The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-02316">
+<name>Solitary median maxillary central incisor</name>
+<acronym>SMMCI</acronym>
+<description>Rare dental anomaly characterized by the congenital absence of one maxillary central incisor.</description>
+<dbReference type="MIM" id="147250"/>
+</disease>
+<text evidence="18 19">The disease is caused by mutations affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-02391">
+<name>Triphalangeal thumb-polysyndactyly syndrome</name>
+<acronym>TPTPS</acronym>
+<description>Autosomal dominant syndrome. It is characterized by a wide spectrum of pre- and post-axial abnormalities due to altered SHH expression pattern during limb development.</description>
+<dbReference type="MIM" id="174500"/>
+</disease>
+<text evidence="20 21">The gene represented in this entry is involved in disease pathogenesis. Mutations located in intron 5 of LMBR1 disrupt a long-range, cis-regulatory element of SHH expression.</text>
+</comment>
+<comment type="disease">
+<disease id="DI-03095">
+<name>Preaxial polydactyly 2</name>
+<acronym>PPD2</acronym>
+<description>Polydactyly consists of duplication of the distal phalanx. The thumb in PPD2 is usually opposable and possesses a normal metacarpal.</description>
+<dbReference type="MIM" id="174500"/>
+</disease>
+<text>The gene represented in this entry is involved in disease pathogenesis. Mutations located in intron 5 of LMBR1 disrupt a long-range, cis-regulatory element of SHH and result in abnormal, ectopic SHH expression with pathological consequences (PubMed:12837695).</text>
+</comment>
+<comment type="similarity">
+<text>Belongs to the hedgehog family.</text>
+</comment>
+<comment type="online information" name="Atlas of Genetics and Cytogenetics in Oncology and Haematology">
+<link uri="http://atlasgeneticsoncology.org/Genes/SHHID378.html"/>
+</comment>
+<comment type="online information" name="NIEHS-SNPs">
+<link uri="http://egp.gs.washington.edu/data/shh/"/>
+</comment>
+<dbReference type="EMBL" id="L38518">
+<property type="protein sequence ID" value="AAA62179.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AY422195">
+<property type="protein sequence ID" value="AAQ87879.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC002484">
+<property type="protein sequence ID" value="AAB67604.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AC078834">
+<property type="protein sequence ID" value="AAS01990.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CH236954">
+<property type="protein sequence ID" value="EAL23913.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS5942.1"/>
+<dbReference type="RefSeq" id="NP_000184.1">
+<property type="nucleotide sequence ID" value="NM_000193.2"/>
+</dbReference>
+<dbReference type="UniGene" id="Hs.164537"/>
+<dbReference type="PDB" id="3HO5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.01"/>
+<property type="chains" value="H=29-197"/>
+</dbReference>
+<dbReference type="PDB" id="3M1N">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.85"/>
+<property type="chains" value="A/B=23-197"/>
+</dbReference>
+<dbReference type="PDB" id="3MXW">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.83"/>
+<property type="chains" value="A=29-197"/>
+</dbReference>
+<dbReference type="PDBsum" id="3HO5"/>
+<dbReference type="PDBsum" id="3M1N"/>
+<dbReference type="PDBsum" id="3MXW"/>
+<dbReference type="ProteinModelPortal" id="Q15465"/>
+<dbReference type="SMR" id="Q15465">
+<property type="residue range" value="25-190, 198-365"/>
+</dbReference>
+<dbReference type="BioGrid" id="112365">
+<property type="interactions" value="6"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000297261"/>
+<dbReference type="BindingDB" id="Q15465"/>
+<dbReference type="ChEMBL" id="CHEMBL5602"/>
+<dbReference type="MEROPS" id="C46.002"/>
+<dbReference type="PhosphoSite" id="Q15465"/>
+<dbReference type="DMDM" id="6094283"/>
+<dbReference type="PaxDb" id="Q15465"/>
+<dbReference type="PRIDE" id="Q15465"/>
+<dbReference type="DNASU" id="6469"/>
+<dbReference type="Ensembl" id="ENST00000297261">
+<property type="protein sequence ID" value="ENSP00000297261"/>
+<property type="gene ID" value="ENSG00000164690"/>
+</dbReference>
+<dbReference type="GeneID" id="6469"/>
+<dbReference type="KEGG" id="hsa:6469"/>
+<dbReference type="UCSC" id="uc003wmj.1">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="CTD" id="6469"/>
+<dbReference type="GeneCards" id="GC07M155592"/>
+<dbReference type="GeneReviews" id="SHH"/>
+<dbReference type="HGNC" id="HGNC:10848">
+<property type="gene designation" value="SHH"/>
+</dbReference>
+<dbReference type="HPA" id="CAB018966"/>
+<dbReference type="MIM" id="142945">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="147250">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="174500">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="600725">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="611638">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="neXtProt" id="NX_Q15465"/>
+<dbReference type="Orphanet" id="93925">
+<property type="disease" value="Alobar holoprosencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="98938">
+<property type="disease" value="Colobomatous microphthalmia"/>
+</dbReference>
+<dbReference type="Orphanet" id="3332">
+<property type="disease" value="Hypoplastic tibiae - postaxial polydactyly"/>
+</dbReference>
+<dbReference type="Orphanet" id="93924">
+<property type="disease" value="Lobar holoprosencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="280200">
+<property type="disease" value="Microform holoprosencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="93926">
+<property type="disease" value="Midline interhemispheric variant of holoprosencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="194">
+<property type="disease" value="Ocular coloboma"/>
+</dbReference>
+<dbReference type="Orphanet" id="295150">
+<property type="disease" value="Polydactyly of a triphalangeal thumb, bilateral"/>
+</dbReference>
+<dbReference type="Orphanet" id="295148">
+<property type="disease" value="Polydactyly of a triphalangeal thumb, unilateral"/>
+</dbReference>
+<dbReference type="Orphanet" id="295071">
+<property type="disease" value="Radial hemimelia, bilateral"/>
+</dbReference>
+<dbReference type="Orphanet" id="295069">
+<property type="disease" value="Radial hemimelia, unilateral"/>
+</dbReference>
+<dbReference type="Orphanet" id="799">
+<property type="disease" value="Schizencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="220386">
+<property type="disease" value="Semilobar holoprosencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="280195">
+<property type="disease" value="Septopreoptic holoprosencephaly"/>
+</dbReference>
+<dbReference type="Orphanet" id="2286">
+<property type="disease" value="Solitary median maxillary central incisor syndrome"/>
+</dbReference>
+<dbReference type="Orphanet" id="93405">
+<property type="disease" value="Syndactyly type 4"/>
+</dbReference>
+<dbReference type="Orphanet" id="2950">
+<property type="disease" value="Triphalangeal thumb - polysyndactyly syndrome"/>
+</dbReference>
+<dbReference type="PharmGKB" id="PA35752"/>
+<dbReference type="eggNOG" id="NOG250647"/>
+<dbReference type="HOGENOM" id="HOG000233428"/>
+<dbReference type="HOVERGEN" id="HBG005480"/>
+<dbReference type="InParanoid" id="Q15465"/>
+<dbReference type="KO" id="K11988"/>
+<dbReference type="OMA" id="HSWAHRA"/>
+<dbReference type="OrthoDB" id="EOG779NZ5"/>
+<dbReference type="PhylomeDB" id="Q15465"/>
+<dbReference type="TreeFam" id="TF106458"/>
+<dbReference type="Reactome" id="REACT_18372">
+<property type="pathway name" value="Class B/2 (Secretin family receptors)"/>
+</dbReference>
+<dbReference type="SignaLink" id="Q15465"/>
+<dbReference type="EvolutionaryTrace" id="Q15465"/>
+<dbReference type="GeneWiki" id="Sonic_hedgehog"/>
+<dbReference type="GenomeRNAi" id="6469"/>
+<dbReference type="NextBio" id="25129"/>
+<dbReference type="PRO" id="PR:Q15465"/>
+<dbReference type="ArrayExpress" id="Q15465"/>
+<dbReference type="Bgee" id="Q15465"/>
+<dbReference type="CleanEx" id="HS_SHH"/>
+<dbReference type="Genevestigator" id="Q15465"/>
+<dbReference type="GO" id="GO:0009986">
+<property type="term" value="C:cell surface"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031012">
+<property type="term" value="C:extracellular matrix"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005615">
+<property type="term" value="C:extracellular space"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045121">
+<property type="term" value="C:membrane raft"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005634">
+<property type="term" value="C:nucleus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005886">
+<property type="term" value="C:plasma membrane"/>
+<property type="evidence" value="IEA:UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005509">
+<property type="term" value="F:calcium ion binding"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005539">
+<property type="term" value="F:glycosaminoglycan binding"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043237">
+<property type="term" value="F:laminin-1 binding"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016015">
+<property type="term" value="F:morphogen activity"/>
+<property type="evidence" value="NAS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005113">
+<property type="term" value="F:patched binding"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008233">
+<property type="term" value="F:peptidase activity"/>
+<property type="evidence" value="IEA:UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005515">
+<property type="term" value="F:protein binding"/>
+<property type="evidence" value="IPI:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008270">
+<property type="term" value="F:zinc ion binding"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008209">
+<property type="term" value="P:androgen metabolic process"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097190">
+<property type="term" value="P:apoptotic signaling pathway"/>
+<property type="evidence" value="ISS:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060840">
+<property type="term" value="P:artery development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007411">
+<property type="term" value="P:axon guidance"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060020">
+<property type="term" value="P:Bergmann glial cell differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007596">
+<property type="term" value="P:blood coagulation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060445">
+<property type="term" value="P:branching involved in salivary gland morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001658">
+<property type="term" value="P:branching involved in ureteric bud morphogenesis"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048754">
+<property type="term" value="P:branching morphogenesis of an epithelial tube"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060447">
+<property type="term" value="P:bud outgrowth involved in lung branching"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043010">
+<property type="term" value="P:camera-type eye development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060070">
+<property type="term" value="P:canonical Wnt signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043369">
+<property type="term" value="P:CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048468">
+<property type="term" value="P:cell development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001708">
+<property type="term" value="P:cell fate specification"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007267">
+<property type="term" value="P:cell-cell signaling"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0071285">
+<property type="term" value="P:cellular response to lithium ion"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007417">
+<property type="term" value="P:central nervous system development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021930">
+<property type="term" value="P:cerebellar granule cell precursor proliferation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003140">
+<property type="term" value="P:determination of left/right asymmetry in lateral mesoderm"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021904">
+<property type="term" value="P:dorsal/ventral neural tube patterning"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009953">
+<property type="term" value="P:dorsal/ventral pattern formation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007398">
+<property type="term" value="P:ectoderm development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009790">
+<property type="term" value="P:embryo development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048557">
+<property type="term" value="P:embryonic digestive tract morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042733">
+<property type="term" value="P:embryonic digit morphogenesis"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048617">
+<property type="term" value="P:embryonic foregut morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035115">
+<property type="term" value="P:embryonic forelimb morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0035116">
+<property type="term" value="P:embryonic hindlimb morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030326">
+<property type="term" value="P:embryonic limb morphogenesis"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009880">
+<property type="term" value="P:embryonic pattern specification"/>
+<property type="evidence" value="TAS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048706">
+<property type="term" value="P:embryonic skeletal system development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006897">
+<property type="term" value="P:endocytosis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060664">
+<property type="term" value="P:epithelial cell proliferation involved in salivary gland morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060738">
+<property type="term" value="P:epithelial-mesenchymal signaling involved in prostate gland development"/>
+<property type="evidence" value="IDA:MGI"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030010">
+<property type="term" value="P:establishment of cell polarity"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030900">
+<property type="term" value="P:forebrain development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048859">
+<property type="term" value="P:formation of anatomical boundary"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031069">
+<property type="term" value="P:hair follicle morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001947">
+<property type="term" value="P:heart looping"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030902">
+<property type="term" value="P:hindbrain development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007442">
+<property type="term" value="P:hindgut morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048839">
+<property type="term" value="P:inner ear development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0016539">
+<property type="term" value="P:intein-mediated protein splicing"/>
+<property type="evidence" value="IEA:InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045109">
+<property type="term" value="P:intermediate filament organization"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060459">
+<property type="term" value="P:left lung development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060174">
+<property type="term" value="P:limb bud formation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030324">
+<property type="term" value="P:lung development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060428">
+<property type="term" value="P:lung epithelium development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060463">
+<property type="term" value="P:lung lobe morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060484">
+<property type="term" value="P:lung-associated mesenchyme development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002320">
+<property type="term" value="P:lymphoid progenitor cell differentiation"/>
+<property type="evidence" value="IMP:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030539">
+<property type="term" value="P:male genitalia development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060916">
+<property type="term" value="P:mesenchymal cell proliferation involved in lung development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060783">
+<property type="term" value="P:mesenchymal smoothened signaling pathway involved in prostate gland development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072136">
+<property type="term" value="P:metanephric mesenchymal cell proliferation involved in metanephros development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001656">
+<property type="term" value="P:metanephros development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030901">
+<property type="term" value="P:midbrain development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0080125">
+<property type="term" value="P:multicellular structure septum development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045445">
+<property type="term" value="P:myoblast differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014902">
+<property type="term" value="P:myotube differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046639">
+<property type="term" value="P:negative regulation of alpha-beta T cell differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0043066">
+<property type="term" value="P:negative regulation of apoptotic process"/>
+<property type="evidence" value="ISS:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090090">
+<property type="term" value="P:negative regulation of canonical Wnt signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045596">
+<property type="term" value="P:negative regulation of cell differentiation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030336">
+<property type="term" value="P:negative regulation of cell migration"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0090370">
+<property type="term" value="P:negative regulation of cholesterol efflux"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000357">
+<property type="term" value="P:negative regulation of kidney smooth muscle cell differentiation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2001054">
+<property type="term" value="P:negative regulation of mesenchymal cell apoptotic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032435">
+<property type="term" value="P:negative regulation of proteasomal ubiquitin-dependent protein catabolic process"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042130">
+<property type="term" value="P:negative regulation of T cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034244">
+<property type="term" value="P:negative regulation of transcription elongation from RNA polymerase II promoter"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0000122">
+<property type="term" value="P:negative regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000062">
+<property type="term" value="P:negative regulation of ureter smooth muscle cell differentiation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045060">
+<property type="term" value="P:negative thymic T cell selection"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001755">
+<property type="term" value="P:neural crest cell migration"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007405">
+<property type="term" value="P:neuroblast proliferation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048663">
+<property type="term" value="P:neuron fate commitment"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042475">
+<property type="term" value="P:odontogenesis of dentin-containing tooth"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014003">
+<property type="term" value="P:oligodendrocyte development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048645">
+<property type="term" value="P:organ formation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002076">
+<property type="term" value="P:osteoblast development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060021">
+<property type="term" value="P:palate development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031016">
+<property type="term" value="P:pancreas development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007389">
+<property type="term" value="P:pattern specification process"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001569">
+<property type="term" value="P:patterning of blood vessels"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0009949">
+<property type="term" value="P:polarity specification of anterior/posterior axis"/>
+<property type="evidence" value="ISS:UniProt"/>
+</dbReference>
+<dbReference type="GO" id="GO:0046638">
+<property type="term" value="P:positive regulation of alpha-beta T cell differentiation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051781">
+<property type="term" value="P:positive regulation of cell division"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0008284">
+<property type="term" value="P:positive regulation of cell proliferation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060769">
+<property type="term" value="P:positive regulation of epithelial cell proliferation involved in prostate gland development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007228">
+<property type="term" value="P:positive regulation of hh target transcription factor activity"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033092">
+<property type="term" value="P:positive regulation of immature T cell proliferation in thymus"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000358">
+<property type="term" value="P:positive regulation of kidney smooth muscle cell differentiation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000729">
+<property type="term" value="P:positive regulation of mesenchymal cell proliferation involved in ureter development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0002052">
+<property type="term" value="P:positive regulation of neuroblast proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048714">
+<property type="term" value="P:positive regulation of oligodendrocyte differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042307">
+<property type="term" value="P:positive regulation of protein import into nucleus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061189">
+<property type="term" value="P:positive regulation of sclerotome development"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014858">
+<property type="term" value="P:positive regulation of skeletal muscle cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048643">
+<property type="term" value="P:positive regulation of skeletal muscle tissue development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045880">
+<property type="term" value="P:positive regulation of smoothened signaling pathway"/>
+<property type="evidence" value="IDA:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051155">
+<property type="term" value="P:positive regulation of striated muscle cell differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033089">
+<property type="term" value="P:positive regulation of T cell differentiation in thymus"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045944">
+<property type="term" value="P:positive regulation of transcription from RNA polymerase II promoter"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045893">
+<property type="term" value="P:positive regulation of transcription, DNA-templated"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:2000063">
+<property type="term" value="P:positive regulation of ureter smooth muscle cell differentiation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030177">
+<property type="term" value="P:positive regulation of Wnt signaling pathway"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0045059">
+<property type="term" value="P:positive thymic T cell selection"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060516">
+<property type="term" value="P:primary prostatic bud elongation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060523">
+<property type="term" value="P:prostate epithelial cord elongation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030850">
+<property type="term" value="P:prostate gland development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0034504">
+<property type="term" value="P:protein localization to nucleus"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042127">
+<property type="term" value="P:regulation of cell proliferation"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060782">
+<property type="term" value="P:regulation of mesenchymal cell proliferation involved in prostate gland development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900175">
+<property type="term" value="P:regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry"/>
+<property type="evidence" value="NAS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042481">
+<property type="term" value="P:regulation of odontogenesis"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060685">
+<property type="term" value="P:regulation of prostatic bud formation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:1900180">
+<property type="term" value="P:regulation of protein localization to nucleus"/>
+<property type="evidence" value="IDA:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030162">
+<property type="term" value="P:regulation of proteolysis"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0072001">
+<property type="term" value="P:renal system development"/>
+<property type="evidence" value="IEP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060458">
+<property type="term" value="P:right lung development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060662">
+<property type="term" value="P:salivary gland cavitation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007224">
+<property type="term" value="P:smoothened signaling pathway"/>
+<property type="evidence" value="IEP:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021938">
+<property type="term" value="P:smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0061053">
+<property type="term" value="P:somite development"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021513">
+<property type="term" value="P:spinal cord dorsal/ventral patterning"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021522">
+<property type="term" value="P:spinal cord motor neuron differentiation"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048864">
+<property type="term" value="P:stem cell development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0014706">
+<property type="term" value="P:striated muscle tissue development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0033077">
+<property type="term" value="P:T cell differentiation in thymus"/>
+<property type="evidence" value="ISS:BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021978">
+<property type="term" value="P:telencephalon regionalization"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0021794">
+<property type="term" value="P:thalamus development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048538">
+<property type="term" value="P:thymus development"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030878">
+<property type="term" value="P:thyroid gland development"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060439">
+<property type="term" value="P:trachea morphogenesis"/>
+<property type="evidence" value="IEA:Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001570">
+<property type="term" value="P:vasculogenesis"/>
+<property type="evidence" value="ISS:UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007418">
+<property type="term" value="P:ventral midline development"/>
+<property type="evidence" value="TAS:BHF-UCL"/>
+</dbReference>
+<dbReference type="Gene3D" id="2.170.16.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="3.30.1380.10">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001657">
+<property type="entry name" value="Hedgehog"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR028992">
+<property type="entry name" value="Hedgehog/Intein_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR009045">
+<property type="entry name" value="Hedgehog_sig/DD-Pept_Zn-bd_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR000320">
+<property type="entry name" value="Hedgehog_signalling_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001767">
+<property type="entry name" value="Hint_dom"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003586">
+<property type="entry name" value="Hint_dom_C"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR003587">
+<property type="entry name" value="Hint_dom_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006141">
+<property type="entry name" value="Intein_splice_site"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01085">
+<property type="entry name" value="HH_signal"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF01079">
+<property type="entry name" value="Hint"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PIRSF" id="PIRSF009400">
+<property type="entry name" value="Peptidase_C46"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00632">
+<property type="entry name" value="SONICHHOG"/>
+</dbReference>
+<dbReference type="SMART" id="SM00305">
+<property type="entry name" value="HintC"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SMART" id="SM00306">
+<property type="entry name" value="HintN"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF51294">
+<property type="entry name" value="SSF51294"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF55166">
+<property type="entry name" value="SSF55166"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PROSITE" id="PS50817">
+<property type="entry name" value="INTEIN_N_TER"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0068">Autocatalytic cleavage</keyword>
+<keyword id="KW-0106">Calcium</keyword>
+<keyword id="KW-1003">Cell membrane</keyword>
+<keyword id="KW-0181">Complete proteome</keyword>
+<keyword id="KW-0217">Developmental protein</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease mutation</keyword>
+<keyword id="KW-0325">Glycoprotein</keyword>
+<keyword id="KW-0370">Holoprosencephaly</keyword>
+<keyword id="KW-0378">Hydrolase</keyword>
+<keyword id="KW-0449">Lipoprotein</keyword>
+<keyword id="KW-0472">Membrane</keyword>
+<keyword id="KW-0479">Metal-binding</keyword>
+<keyword id="KW-1013">Microphthalmia</keyword>
+<keyword id="KW-0564">Palmitate</keyword>
+<keyword id="KW-0645">Protease</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0732">Signal</keyword>
+<keyword id="KW-0862">Zinc</keyword>
+<feature type="signal peptide" evidence="4">
+<location>
+<begin position="1"/>
+<end position="23"/>
+</location>
+</feature>
+<feature type="chain" description="Sonic hedgehog protein" id="PRO_0000013208">
+<location>
+<begin position="24"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="chain" description="Sonic hedgehog protein N-product" id="PRO_0000013209">
+<location>
+<begin position="24"/>
+<end position="197"/>
+</location>
+</feature>
+<feature type="chain" description="Sonic hedgehog protein C-product" id="PRO_0000013210">
+<location>
+<begin position="198"/>
+<end position="462"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Poly-Gly">
+<location>
+<begin position="407"/>
+<end position="411"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="89"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="90"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="95"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1; via carbonyl oxygen">
+<location>
+<position position="125"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 1">
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="126"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Calcium 2">
+<location>
+<position position="131"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="metal ion-binding site" description="Zinc">
+<location>
+<position position="182"/>
+</location>
+</feature>
+<feature type="site" description="Cleavage; by autolysis" status="by similarity">
+<location>
+<begin position="197"/>
+<end position="198"/>
+</location>
+</feature>
+<feature type="site" description="Involved in cholesterol transfer" status="by similarity">
+<location>
+<position position="243"/>
+</location>
+</feature>
+<feature type="site" description="Involved in auto-cleavage" status="by similarity">
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="site" description="Essential for auto-cleavage" status="by similarity">
+<location>
+<position position="270"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="N-palmitoyl cysteine" evidence="4">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="lipid moiety-binding region" description="Cholesterol glycine ester" status="by similarity">
+<location>
+<position position="197"/>
+</location>
+</feature>
+<feature type="glycosylation site" description="N-linked (GlcNAc...)" evidence="22">
+<location>
+<position position="278"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023804" evidence="12 17">
+<original>R</original>
+<variation>T</variation>
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062592" evidence="17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="17"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062593" evidence="17">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039888" evidence="11 17">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="27"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; the same mutation in the mouse sequence introduces a cleavage site for a furin-like protease resulting in abnormal protein processing; cleavage at this site removes 11 amino acids from the N-terminal domain and reduces affinity of Shh for Ptch1 and signaling potency in assays using chicken embryo neural plate explants and mouse C3H10T1/2 stem cells; dbSNP:rs28936675." id="VAR_003619" evidence="6 7 15 17">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062594" evidence="17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="39"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062595" evidence="17">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="53"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062596" evidence="17">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="83"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062597" evidence="17">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="84"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial; the same mutation in the mouse sequence moderately reduces Ptch1 binding in vitro and signaling potency in chicken embryo neural plate explant assays compared with wild-type sequence." id="VAR_009163" evidence="9 15 17">
+<original>D</original>
+<variation>V</variation>
+<location>
+<position position="88"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; sporadic; in the mouse sequence does not affect signaling activity in any of Shh signaling assays and causes no apparent defects in cholesterol-mediated autoprocessing reactions." id="VAR_009164" evidence="8 12 15 17">
+<original>Q</original>
+<variation>H</variation>
+<location>
+<position position="100"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062598" evidence="17">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062599" evidence="17">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="102"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023805">
+<location>
+<begin position="106"/>
+<end position="107"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062600" evidence="17">
+<original>L</original>
+<variation>F</variation>
+<location>
+<position position="109"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023806" evidence="12 17">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062601" evidence="17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="110"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In SMMCI." id="VAR_017883" evidence="17 18">
+<original>I</original>
+<variation>F</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039889" evidence="13 17">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="111"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial; in the mouse sequence shows no change in activities at different temperatures." id="VAR_009165" evidence="9 15 17">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="115"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; the same mutation in the mouse sequence causes a failure of Shh processing leading to retention of the immature glycosylated protein within the endoplasmic reticulum of transfected cells; causes a temperature-dependent conformational change that allows Shh to bind Ptch1 at 4 or 32 degrees Celsius but not at 37 degrees Celsius; the mutation drastically reduces signaling potency in chicken embryo neural plate explant assays." id="VAR_003620" evidence="6 7 15 17">
+<original>W</original>
+<variation>G</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; the same mutation in the mouse sequence causes a failure of Shh processing leading to retention of the immature glycosylated protein within the endoplasmic reticulum of transfected cells; causes a temperature-dependent conformational change that allows Shh to bind Ptch1 at 4 or 32 degrees Celsius but not at 37 degrees Celsius; drastically reduces signaling potency in chicken embryo neural plate explant assays." id="VAR_003621" evidence="6 7 15 17">
+<original>W</original>
+<variation>R</variation>
+<location>
+<position position="117"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062602" evidence="17">
+<original>V</original>
+<variation>M</variation>
+<location>
+<position position="124"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062603" evidence="17">
+<original>E</original>
+<variation>K</variation>
+<location>
+<position position="136"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039890" evidence="10 17">
+<original>H</original>
+<variation>P</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039891" evidence="14 16 17">
+<original>H</original>
+<variation>Q</variation>
+<location>
+<position position="140"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062604" evidence="17">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062605" evidence="17">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062606" evidence="17">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="147"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062607" evidence="17">
+<original>T</original>
+<variation>K</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023807" evidence="12 17">
+<original>T</original>
+<variation>R</variation>
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062608" evidence="17">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="156"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062609" evidence="17">
+<original>F</original>
+<variation>C</variation>
+<location>
+<position position="170"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062610" evidence="17">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023808">
+<location>
+<begin position="176"/>
+<end position="178"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039892" evidence="10 17">
+<original>C</original>
+<variation>F</variation>
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062611" evidence="17">
+<original>C</original>
+<variation>R</variation>
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062612" evidence="17">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="183"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062613" evidence="17">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="184"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009166" evidence="8 12 15 17">
+<original>E</original>
+<variation>Q</variation>
+<location>
+<position position="188"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062614">
+<location>
+<begin position="196"/>
+<end position="200"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062615" evidence="17">
+<original>G</original>
+<variation>E</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062616" evidence="17">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="197"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062617" evidence="17">
+<original>C</original>
+<variation>F</variation>
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062618" evidence="17">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="198"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062619" evidence="16 17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="218"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009167" evidence="8 12 17">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="222"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_009168" evidence="7 17">
+<original>V</original>
+<variation>E</variation>
+<location>
+<position position="224"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009169" evidence="7 17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="226"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062620" evidence="17">
+<original>G</original>
+<variation>V</variation>
+<location>
+<position position="231"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062621" evidence="17">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="232"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062622" evidence="17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="234"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062623" evidence="17">
+<original>S</original>
+<variation>N</variation>
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009170" evidence="9 17">
+<original>S</original>
+<variation>R</variation>
+<location>
+<position position="236"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062624" evidence="17">
+<original>F</original>
+<variation>L</variation>
+<location>
+<position position="241"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062625" evidence="17">
+<original>F</original>
+<variation>V</variation>
+<location>
+<position position="241"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062626" evidence="17">
+<original>I</original>
+<variation>N</variation>
+<location>
+<position position="255"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; sporadic." id="VAR_009171">
+<location>
+<begin position="263"/>
+<end position="269"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039893" evidence="11 17">
+<original>T</original>
+<variation>I</variation>
+<location>
+<position position="267"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023809" evidence="12 17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="271"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062627" evidence="17">
+<original>A</original>
+<variation>E</variation>
+<location>
+<position position="275"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062628" evidence="17">
+<original>S</original>
+<variation>W</variation>
+<location>
+<position position="280"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; sporadic; dbSNP:rs104894047." id="VAR_009172" evidence="9 17">
+<original>G</original>
+<variation>D</variation>
+<location>
+<position position="290"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062629" evidence="17">
+<original>G</original>
+<variation>A</variation>
+<location>
+<position position="296"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062630" evidence="17">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="310"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062631" evidence="17">
+<original>R</original>
+<variation>S</variation>
+<location>
+<position position="321"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3 and SMMCI." id="VAR_023810" evidence="12 17 19">
+<original>V</original>
+<variation>A</variation>
+<location>
+<position position="332"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062632" evidence="17">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="346"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062633" evidence="17">
+<original>P</original>
+<variation>L</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023811" evidence="12 17">
+<original>P</original>
+<variation>Q</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062634" evidence="17">
+<original>P</original>
+<variation>R</variation>
+<location>
+<position position="347"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023812" evidence="12 17">
+<original>I</original>
+<variation>T</variation>
+<location>
+<position position="354"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062635" evidence="17">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="362"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062636" evidence="16 17">
+<original>C</original>
+<variation>Y</variation>
+<location>
+<position position="363"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062637" evidence="17">
+<original>Y</original>
+<variation>C</variation>
+<location>
+<position position="364"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_039894" evidence="11 17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="373"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062638" evidence="17">
+<original>H</original>
+<variation>R</variation>
+<location>
+<position position="374"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062639" evidence="17">
+<original>A</original>
+<variation>D</variation>
+<location>
+<position position="376"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062640" evidence="17">
+<original>F</original>
+<variation>S</variation>
+<location>
+<position position="377"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009173">
+<location>
+<begin position="378"/>
+<end position="380"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_023813" evidence="12 17">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="381"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062641" evidence="17">
+<original>L</original>
+<variation>P</variation>
+<location>
+<position position="382"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; sporadic." id="VAR_009174" evidence="7 17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="383"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062642" evidence="17">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="391"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In ocular coloboma." id="VAR_017884">
+<location>
+<begin position="401"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062643">
+<location>
+<begin position="402"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009175">
+<location>
+<begin position="404"/>
+<end position="408"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062644">
+<location>
+<begin position="405"/>
+<end position="409"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062645" evidence="17">
+<original>G</original>
+<variation>GG</variation>
+<location>
+<position position="411"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062646" evidence="17">
+<original>T</original>
+<variation>A</variation>
+<location>
+<position position="416"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; familial." id="VAR_009176" evidence="9 17">
+<original>P</original>
+<variation>A</variation>
+<location>
+<position position="424"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3." id="VAR_062647" evidence="17">
+<original>Y</original>
+<variation>N</variation>
+<location>
+<position position="435"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; sporadic." id="VAR_009177" evidence="9 17">
+<original>S</original>
+<variation>L</variation>
+<location>
+<position position="436"/>
+</location>
+</feature>
+<feature type="sequence variant" description="In HPE3; unknown pathological significance." id="VAR_062648" evidence="17">
+<original>G</original>
+<variation>R</variation>
+<location>
+<position position="456"/>
+</location>
+</feature>
+<feature type="mutagenesis site" description="Abolishes palmitoylation." evidence="4">
+<original>C</original>
+<variation>S</variation>
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="30"/>
+<end position="32"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="47"/>
+<end position="51"/>
+</location>
+</feature>
+<feature type="turn">
+<location>
+<begin position="56"/>
+<end position="59"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="72"/>
+<end position="75"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="84"/>
+<end position="86"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="91"/>
+<end position="93"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="94"/>
+<end position="96"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="100"/>
+<end position="116"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="122"/>
+<end position="128"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="139"/>
+<end position="142"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="145"/>
+<end position="150"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="155"/>
+<end position="157"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="158"/>
+<end position="167"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="171"/>
+<end position="177"/>
+</location>
+</feature>
+<feature type="strand">
+<location>
+<begin position="180"/>
+<end position="184"/>
+</location>
+</feature>
+<feature type="helix">
+<location>
+<begin position="188"/>
+<end position="190"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10753901"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19561609"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="20504762"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9593755"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12503095"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8896572"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="9302262"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10441331"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="10556296"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11479728"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15107988"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15221788"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15942952"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15942953"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16282375"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="17001669"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19603532"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11471164"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="15103725"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="12837695"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="18417549"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16335952"/>
+</source>
+</evidence>
+<sequence length="462" mass="49607" checksum="DD687AFA582A4749" modified="1996-11-01" version="1" precursor="true">
+MLLLARCLLLVLVSSLLVCSGLACGPGRGFGKRRHPKKLTPLAYKQFIPNVAEKTLGASG
+RYEGKISRNSERFKELTPNYNPDIIFKDEENTGADRLMTQRCKDKLNALAISVMNQWPGV
+KLRVTEGWDEDGHHSEESLHYEGRAVDITTSDRDRSKYGMLARLAVEAGFDWVYYESKAH
+IHCSVKAENSVAAKSGGCFPGSATVHLEQGGTKLVKDLSPGDRVLAADDQGRLLYSDFLT
+FLDRDDGAKKVFYVIETREPRERLLLTAAHLLFVAPHNDSATGEPEASSGSGPPSGGALG
+PRALFASRVRPGQRVYVVAERDGDRRLLPAAVHSVTLSEEAAGAYAPLTAQGTILINRVL
+ASCYAVIEEHSWAHRAFAPFRLAHALLAALAPARTDRGGDSGGGDRGGGGGRVALTAPGA
+ADAPGAGATAGIHWYSQLLYQIGTWLLDSEALHPLGMAVKSS
+</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution-NoDerivs License
+</copyright>
+</uniprot>
