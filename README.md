@@ -28,7 +28,7 @@ If you are comfortable using git from the command-line, you can simply change to
 
 ### Running the Jupyter Notebooks
 
-Note: Please make sure you have installed the Anaconda Python distribution ([https://www.continuum.io/downloads](https://www.continuum.io/downloads)) before trying to run the Jupyter Notebooks.
+*Note: Please make sure you have installed the Anaconda Python distribution ([https://www.continuum.io/downloads](https://www.continuum.io/downloads)) before trying to run the Jupyter Notebooks.*
 
 Once you've cloned the repo to you computer, open a terminal and go to the directory containing the repo. Then type the following command to start the Jupyter Notebook server:
 
