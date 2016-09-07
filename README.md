@@ -2,6 +2,7 @@
 
 To get started, you'll need to clone this repository to your computer.
 
+
 ### Cloning the Repo
 
 #### Github Desktop
@@ -10,21 +11,19 @@ For both Mac and Windows users, there is a nifty Github Desktop app available at
 
 [https://desktop.github.com/](https://desktop.github.com/)
 
-
 To clone this repository, follow the instructions here:
 
 [https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/)
-
 
 #### Git on the Command-line
 
 Mac and Linux users should already have git installed on their computers. You can check with the following command:
 
-  git --version
+  `git --version`
 
 If you are comfortable using git from the command-line, you can simply change to the directory where you want to clone this repo and then run the following:
 
-  git clone https://github.com/mooneymi/bioinformatics_programming.git
+  `git clone https://github.com/mooneymi/bioinformatics_programming.git`
 
 
 ### Viewing the Lectures Online
