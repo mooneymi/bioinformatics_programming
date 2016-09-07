@@ -1,8 +1,8 @@
 ## Welcome to Bioinformatics Programming & Scripting
 
-To get started, you'll need to clone this repo to your computer.
+To get started, you'll need to clone this repository to your computer.
 
-### Cloning the Repo to Your Computer
+### Cloning the Repo
 
 #### Github Desktop
 
@@ -18,7 +18,7 @@ To clone this repository, follow the instructions here:
 
 #### Git on the Command-line
 
-Mac and Linux users should have git already installed on their computers. You can check with the following command:
+Mac and Linux users should already have git installed on their computers. You can check with the following command:
 
   git --version
 
@@ -33,5 +33,9 @@ If you simply want to view the lecture materials online (note: you won't be able
 
 [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
 
-[Start Here with Lecture 1](https://nbviewer.jupyter.org/github/mooneymi/bioinformatics_programming/blob/master/BMI565_Week1_Data_Types_Operators.ipynb)
+To view any lecture, go to the site above and enter "mooneymi/bioinformatics_programming" in the search box.
+
+Or follow the link below to go directly to the first lecture:
+
+Start here: [Lecture 1](https://nbviewer.jupyter.org/github/mooneymi/bioinformatics_programming/blob/master/BMI565_Week1_Data_Types_Operators.ipynb)
 
