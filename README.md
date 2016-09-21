@@ -5,25 +5,34 @@ To get started, you'll need to clone this repository to your computer.
 
 ### Cloning the Repo
 
-#### Github Desktop
-
-For both Mac and Windows users, there is a nifty Github Desktop app available at the link below.
-
-[https://desktop.github.com/](https://desktop.github.com/)
-
-To clone this repository, follow the instructions here:
-
-[https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/)
+The simplest way to get the class materials is to click the "Clone or Download" button above and download a .zip archive of all the materials. However, following the steps below will give you some familiarity with Github and the Git version control system, which will definitely come in handy in the future.
 
 #### Git on the Command-line
 
-Mac and Linux users should already have git installed on their computers. You can check with the following command:
+I encourage you to try using Git on the command-line. Mac and Linux users should already have git installed on their computers. You can check with the following command:
 
-  `git --version`
+`git --version`
+
+If you don't have Git installed, you can get it at the link below (available for all operating systems):
+
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 If you are comfortable using git from the command-line, you can simply change to the directory where you want to clone this repo and then run the following:
 
-  `git clone https://github.com/mooneymi/bioinformatics_programming.git`
+`git clone https://github.com/mooneymi/bioinformatics_programming.git`
+
+
+#### Github Desktop
+
+If you're not comfortable using the command-line, there is a Github Desktop app available at the link below:
+
+[https://desktop.github.com/](https://desktop.github.com/)
+
+To clone this repository, follow the instructions here (note: keep this page open, because you'll need to click the "Clone or download" button above):
+
+[https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/)
 
 
 ### Running the Jupyter Notebooks
@@ -46,5 +55,5 @@ To view any lecture, go to the site above and enter "mooneymi/bioinformatics_pro
 
 Or follow the link below to go directly to the first lecture:
 
-Start here: [Lecture 1](https://nbviewer.jupyter.org/github/mooneymi/bioinformatics_programming/blob/master/BMI565_Week1_Data_Types_Operators.ipynb)
+Start here: [Lecture #1](https://nbviewer.jupyter.org/github/mooneymi/bioinformatics_programming/blob/master/BMI565_Week1_Data_Types_Operators.ipynb)
 
