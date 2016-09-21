@@ -5,7 +5,7 @@ To get started, you'll need to clone this repository to your computer.
 
 ### Cloning the Repo
 
-The simplest way to get the class materials is to click the "Clone or Download" button above and download a .zip archive of all the materials. However, this won't create a Git repository on your local machine (you'll simply be copying the files). Following the steps below to clone the repo on your local computer will give you some familiarity with Github and the Git version control system, which will definitely come in handy in the future.
+The simplest way to get the class materials is to click the "Clone or download" button above and download a .zip archive of all the materials. However, this won't create a Git repository on your local machine (you'll simply be copying the files). Following the steps below to clone the repo on your local computer will give you some familiarity with Github and the Git version control system, which will definitely come in handy in the future.
 
 #### Git on the Command-line
 
@@ -51,9 +51,6 @@ If you simply want to view the lecture materials online (note: you won't be able
 
 [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
 
-To view any lecture, go to the site above and enter "mooneymi/bioinformatics_programming" in the search box.
+To view any lecture, go to the site above and enter "mooneymi/bioinformatics_programming" in the search box. Then click the link for any of the .ipynb files (Jupyter notebooks) listed.
 
-Or follow the link below to go directly to the first lecture:
-
-Start here: [Lecture #1](https://nbviewer.jupyter.org/github/mooneymi/bioinformatics_programming/blob/master/BMI565_Week1_Data_Types_Operators.ipynb)
 
