@@ -19,7 +19,7 @@ If you don't have Git installed, you can get it at the link below (available for
 
 [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-If you are comfortable using git from the command-line, you can simply change to the directory where you want to clone this repo and then run the following:
+Once you have Git installed, from the command-line you can simply change to the directory where you want to clone this repo and then run the following:
 
 `git clone https://github.com/mooneymi/bioinformatics_programming.git`
 
