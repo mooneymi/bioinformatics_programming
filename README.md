@@ -5,7 +5,7 @@ To get started, you'll need to clone this repository to your computer.
 
 ### Cloning the Repo
 
-The simplest way to get the class materials is to click the "Clone or Download" button above and download a .zip archive of all the materials. However, following the steps below will give you some familiarity with Github and the Git version control system, which will definitely come in handy in the future.
+The simplest way to get the class materials is to click the "Clone or Download" button above and download a .zip archive of all the materials. However, this won't create a Git repository on your local machine (you'll simply be copying the files). Following the steps below to clone the repo on your local computer will give you some familiarity with Github and the Git version control system, which will definitely come in handy in the future.
 
 #### Git on the Command-line
 
