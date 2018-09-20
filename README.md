@@ -19,6 +19,8 @@ If you don't have Git installed, you can get it at the link below (available for
 
 [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+** Note: for Windows users, installing git will also give you access to a Bash emulator, which will allow you to test out bash commands on your computer without having to access the remove Linux server.
+
 Once you have Git installed, from the command-line you can simply change to the directory where you want to clone this repo and then run the following:
 
 `git clone https://github.com/mooneymi/bioinformatics_programming.git`
@@ -37,13 +39,13 @@ To clone this repository, follow the instructions here (note: keep this page ope
 
 ### Running the Jupyter Notebooks
 
-*Note: Please make sure you have installed the Anaconda Python distribution ([https://www.continuum.io/downloads](https://www.continuum.io/downloads)) before trying to run the Jupyter Notebooks.*
+*Note: Please make sure you have installed the Anaconda Python distribution ([https://www.anaconda.com/download/](https://www.anaconda.com/download/)) before trying to run the Jupyter Notebooks.*
 
 Once you've cloned the repo to you computer, open a terminal and go to the directory containing the repo. Then type the following command to start the Jupyter Notebook server:
 
 `jupyter notebook`
 
-A new tab should open in your web browser that lists all the available lectures. Click on the link for "BMI565_Week1_Data_Types_Operators.ipynb". This should open the notebook for lecture #1 in a new tab.
+A new tab should open in your web browser that lists all the available lectures. Click on the link for "BMI565_Week1a_Data_Types_Operators.ipynb". This should open the notebook for lecture #1 in a new tab.
 
 ### Viewing the Lectures Online
 
