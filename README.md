@@ -41,7 +41,7 @@ To clone this repository, follow the instructions here (note: keep this page ope
 
 *Note: Please make sure you have installed the Anaconda Python distribution ([https://www.anaconda.com/download/](https://www.anaconda.com/download/)) before trying to run the Jupyter Notebooks.*
 
-Once you've cloned the repo to you computer, open a terminal and go to the directory containing the repo. Then type the following command to start the Jupyter Notebook server:
+Once you've cloned the repo to you computer, open a terminal and go to the directory containing the repo (i.e. the 'bioinformatics_programming' directory that was created when you cloned the repo). Then type the following command to start the Jupyter Notebook server:
 
 `jupyter notebook`
 
