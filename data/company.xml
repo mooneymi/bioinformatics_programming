@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<company>
+    <department>
+        <employee>
+            <name>John Doe</name>
+            <job>Software Analyst</job>
+            <salary>2000</salary>
+        </employee>
+        <employee>
+            <name>Jane Fletcher</name>
+            <job>Designer</job>
+            <salary>2500</salary>
+        </employee>        
+        <employee>
+            <name>Mike Mooney</name>
+            <job>Professor</job>
+            <salary>250000</salary>
+        </employee>
+        <employee>
+            <name>Gareth Harman</name>
+            <job>Student</job>
+            <salary>10</salary>
+        </employee>
+    </department>
+</company>
